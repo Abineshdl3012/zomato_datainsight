@@ -240,21 +240,4 @@ if selected_page == "Queries":
 
 
 
-    
-    # elif option == "6. What is the total number of ratings for each restaurant, and what are their corresponding restaurant names?":
-    #     mycursor.execute("SELECT name, COUNT(rating) FROM restaurants GROUP BY name")
-    #     results = mycursor.fetchall()
-    #     st.write(pd.DataFrame(results, columns=['Restaurant Name', 'Number of Ratings']))
-    
-    # elif option == "7. What is the total number of orders for each customer, and what are their corresponding customer names?":
-    #     mycursor.execute('''SELECT name, COUNT(order_id) AS num_orders 
-    #                             FROM customers 
-    #                             JOIN orders ON customers.customer_id = orders.customer_id 
-    #                             GROUP BY name''')
-    #     results = mycursor.fetchall()
-    #     st.write(pd.DataFrame(results, columns=['Customer ID', 'Number of Orders']))
-    
-    # elif option == "8. What are the names of all the restaurants that have been ordered from in the past week?":
-    #     mycursor.execute("SELECT name FROM orders WHERE order_date >= CURDATE() - INTERVAL 7 DAY")
-    #     results = mycursor.fetchall()
-    #     st.write(pd.DataFrame(results, columns=['Restaurant Name']))
+   
