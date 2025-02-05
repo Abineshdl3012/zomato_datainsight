@@ -1,0 +1,301 @@
+restaurant_id,name,cusine_type,location,owner_name,average_delivery_time,contact_number,rating,total_orders,is_active
+2203fecb-6c88-405d-858c-06dc95b3828b,Perez-Woods,French,Port Reginashire,Charles Ramirez,30,890.486.7875x8897,2.54,80,False
+35e90f9d-1bfa-4689-9e58-c1d9abdf026f,Jimenez-Jackson,Indian,New Rachaelstad,Eric Weber,25,(868)512-9769x340,1.46,88,True
+daa63d7e-b087-48c3-9a81-53e0e4b3e6e1,Knight Group,French,Port Wesleyberg,Christopher Richard,31,995.610.3727,1.88,26,True
+ca81f9a1-71c6-41d0-a332-7c4246fdaf05,"Duran, Brown and Alexander",Chinese,Port Jonathan,James Hughes,20,384-975-4269x6744,4.76,65,False
+0a5f79cb-72a9-4264-b1e0-4b3cea49e13d,Richardson-Sutton,Chinese,Martinezchester,Daniel Davidson,30,(592)420-5886,3.85,4,False
+7c289a69-268e-46b5-b39a-387bca295d45,Gibson-Rodriguez,French,Faithville,Andrew Davis,13,5944653889,3.15,44,True
+4a03ccf0-bbf5-4898-8e9f-39fa73f52055,Phillips LLC,French,South Samantha,Alicia Davis,30,001-822-945-5947x685,3.94,90,False
+67334dcc-63ff-47ab-862b-6aec0bda6b51,Chen and Sons,Chinese,Port Brookebury,Andrew Jennings,56,+1-669-521-5086x8168,4.54,59,True
+d343630d-01ff-4106-b866-2a6b3808e626,Williams PLC,Chinese,Rebeccaborough,Amy Perez,33,+1-793-882-2348x3157,2.98,61,False
+c255947f-62b2-44d7-a813-5c95e5ebb2f6,Woods PLC,Italian,Port Jennifer,Stacy Flores DVM,54,812.303.2358,4.09,58,False
+e5f52698-9f82-4d45-b77d-5591d3ef9c44,"Jackson, Fischer and Dixon",Indian,Stephenston,Mrs. Audrey Hill,60,414.740.1724x4483,4.38,51,False
+2e137c4e-cd9b-4958-9842-b7c09e2d1848,Lambert and Sons,Italian,Port Tylerborough,Christopher James,39,001-322-563-0672x9152,1.95,51,False
+468c3ea8-3af3-4616-8952-a8051f503e81,Smith-Fleming,Chinese,East Melanie,Anthony Butler,58,(489)924-2504,3.11,83,False
+86381a1a-10dd-460b-9a72-41f31202eb64,King-Kim,Chinese,Underwoodhaven,Rebekah Weaver,36,001-211-859-9023x345,3.54,61,False
+1f76a2ff-4a62-431a-b41f-e63f79eab9bf,Wheeler Ltd,French,North Michaelbury,David Little,34,+1-611-524-4376x23868,1.15,76,True
+dd154eee-20f7-4589-82fe-48579a23ebc6,"Mcdonald, Hall and Bowman",Italian,Lake Jameshaven,Logan Woods,23,698.621.4560,3.09,51,True
+c9c7a2d4-fd62-450c-bc6e-d8fc8dcce174,Brooks-Rodriguez,Mexican,North Brad,Troy Ross,47,+1-236-460-3416x1437,3.2,39,True
+27e5a0e0-a663-481d-aa44-b4afab2e9907,Combs-Cortez,French,East Stephanie,Laura Mcguire,41,(437)853-2419,1.73,71,True
+3090ea69-2049-433c-99d3-5e4b25418ea0,"Gilbert, King and Miller",Chinese,Ericaberg,Mary Hall,56,(660)579-0887x4626,1.35,9,False
+1cb5050b-41dc-4c34-ab6b-cf61c0a9ec3d,"Green, Patel and Moss",Indian,New Michelle,Dana Taylor,58,202-409-1363,1.13,64,True
+51329ee2-148a-407a-aed6-08cab8574872,Castro-Ibarra,American,South Sarah,Bob Pierce,49,540.731.5010x4659,4.82,74,False
+748aacf9-d57e-4315-8d7a-b1e69eb07fc6,"Gibson, Hancock and Smith",Indian,North Cynthia,Ryan Barrett,14,001-641-541-3899x31908,4.78,32,False
+0bfbf11b-dc7b-43f8-8522-0fb1967a44b3,"Hunt, Moses and Herrera",Chinese,Lake Amyborough,Robert Rhodes,43,476.438.8120,2.51,15,False
+3283c774-b885-4e69-82ef-b579e04b5c12,Riley-Gutierrez,French,Lake Tammy,Kim Velasquez,38,+1-900-560-1396x2997,3.86,16,False
+8cc98c84-c427-425e-b3bb-0d35679f142f,Morris-Adams,Mexican,Chapmanbury,Olivia Carter,53,942-263-8507x69251,3.6,6,False
+88d115d8-d219-4039-ae68-851b5a74168e,"Black, Burns and Foster",American,Josephport,Edwin Williams,14,+1-540-704-1601x3557,3.29,40,False
+889753f2-2a25-48dd-b9b2-5a46a7bf4557,"Warren, Miller and Foster",Italian,Bethstad,Tami Boyd,37,001-520-365-0579x509,4.31,10,False
+eb06bf1a-947e-4bf5-8f72-b55b4538cd32,Brennan Group,American,North Amandaport,Ryan Wilson,23,001-564-246-0408x682,1.9,27,False
+6fc6db2b-183f-4396-b4c2-7f5a4750107a,Schmidt-Pierce,American,West Lisa,Laura Weber,49,531-509-6752x1804,4.98,89,False
+0b3f9127-647c-4ec6-ad04-8d9fe7b79d7c,"Blackburn, Russell and Carey",Indian,New Lauren,Greg Stanley,29,757.552.3908x818,2.61,46,True
+cb4a7174-6885-4ae4-bc5d-a44f3d9119e2,Henry Group,Italian,South Michaelport,April Garcia,15,766.988.2254,1.89,0,False
+c101173d-a7d0-49e0-beb2-06567166bd79,Fowler PLC,American,Richardview,Michaela Clark,24,001-645-505-0921x6588,1.71,3,False
+f3a51b3f-6c89-489f-8c7d-bf60f917b483,Shah-Burnett,American,Brandonstad,Jacob Vasquez,34,807.532.6089,1.59,3,False
+049ae803-5f14-4ea8-b939-ce5b623e570f,"Carlson, Ray and Williams",French,Richardmouth,Darius Schmidt,15,(202)280-8976x0068,1.48,14,False
+3cb33ab1-6264-4842-a2bd-a9e91abd3524,"Garcia, Lynn and Weber",Mexican,South Danaburgh,Lawrence White,43,(959)323-2622x3460,3.53,17,False
+c94f848a-8879-4c93-98ec-a7ce031cd07e,Schmitt-Mccarty,Mexican,New Christine,Lisa Benson,22,9569860483,1.76,13,True
+86f03fe9-bc95-4cd7-b1d9-e88757da68ff,Turner and Sons,Mexican,Port Cassidy,Cynthia Robinson,55,001-484-856-0635x506,1.33,78,False
+44d31371-0a9a-43a4-a9c9-1b59bc05f5a5,"Miller, Taylor and Brewer",Italian,Lake Stephanie,Xavier Russell,40,212-263-8547x17128,4.67,89,False
+eec9250c-eb8b-40df-aba5-f4771eb4859f,Neal and Sons,Chinese,Port Leonardhaven,Emily Kelly,34,(409)662-6674,1.84,72,True
+733bbcc9-7e5b-4140-b7aa-1acb67c1f448,Wells Inc,Chinese,West Thomashaven,Tina Elliott,31,001-535-412-9511x46141,3.06,6,True
+b5bf06a2-cbf5-4971-b8b1-7af914cedbde,Palmer-Graham,French,Keithtown,Richard Hood,18,(973)485-5231x969,3.14,92,False
+61f7fc39-c584-409b-b631-31a2c19bcbbb,"Green, Velez and Griffin",French,Taraberg,Raymond Randolph,15,(673)241-3299x681,2.51,94,False
+c7b126e8-b43f-4ff2-87a7-5c85bc3bc346,"Gallagher, Dunn and Rodriguez",Italian,South Kellyside,Scott Hicks,23,(405)786-5361,1.74,33,True
+48adbb69-d24d-4b3f-b17d-d1fd92998e8f,"Brown, Cox and Ingram",Italian,South Alice,Kimberly Bailey,22,911.310.8410x67952,1.58,8,True
+4bd2cd23-6933-4d82-9687-d6d2039bc86b,Kaiser-Barrett,Italian,Lauraview,Krystal Bradford,32,(371)243-1676x5499,4.86,54,False
+4dbf3ddb-2a8d-496c-bde6-3243da3d0234,Beck and Sons,American,Hansenberg,John Long,59,(346)738-8254x4451,1.8,31,False
+30361090-dd8e-477e-8338-845cd9733ca2,Allen-Robles,Italian,Michaelview,Alejandro Paul,39,(444)509-7797x76441,3.13,19,True
+dd758a62-cb1c-4a63-bb50-a1edf3776830,Shaw PLC,American,Bonnieland,William Silva,23,940.857.5711,3.89,99,False
+3876f15a-376a-496e-b513-9d09e102ec6a,Jones-Harrington,Chinese,Lindseychester,Wesley Shaw MD,19,(514)390-9821,4.5,97,False
+1fe7ec0a-deb5-4747-8791-84b87428b0aa,"Carpenter, Johnson and Chan",Italian,Erikfort,Jason Wilson,22,801.402.2325,3.03,60,False
+6a66c7b3-4d17-4612-b9a1-8ce80008b48e,Kennedy-Watson,American,Danielsburgh,Rachael Harris,35,(630)629-4864x235,2.56,23,True
+c925cd91-ae01-4e64-b526-c099b3797a2f,Smith-Diaz,American,East Robertberg,Jorge Mclaughlin,29,946.653.9069x4818,1.99,2,False
+0270d5f8-cb67-42e7-b88e-34789b8025ce,Jacobson-Allen,Italian,Williamville,Karen Huffman,19,001-560-393-0592x03062,3.42,15,False
+b822048d-51f8-4b59-9304-847f229e5dd7,Yu-Mcneil,French,Barrychester,Sally Wiggins,16,847.702.8099x660,4.87,75,True
+ac5ea8db-0dfd-4248-b554-0502c0acf000,"Marks, Romero and Wright",Mexican,Taylormouth,David Baker,36,770.365.2615x744,2.44,66,True
+30bf4a3a-3b5b-488b-ac43-1af0820f1a6b,Case and Sons,Italian,North James,Robert Conrad MD,57,(418)361-6539x77127,1.54,82,True
+ce4e9cfe-103e-4cb0-93c1-8eec46ad98bc,Adams LLC,Mexican,Lauraberg,Roger Alexander,13,+1-556-823-6193x559,1.4,92,True
+b9b4fd3a-dac8-4aa3-822a-7a64acb038e4,Carter-Estrada,Indian,Williamsmouth,Rachel Tanner,13,346-946-3156x49393,2.19,31,True
+ddfe4063-e02f-4be1-86ba-39c1a2643d08,Meyer-Miller,Chinese,Coopermouth,Tiffany Garrett,27,+1-290-279-3380,4.93,24,False
+b301d0de-7586-4b02-b5f2-78684827a95a,"Davila, Banks and Campos",American,Coryborough,Molly Vaughn,29,7447122119,2.22,97,True
+53207823-3804-4cb6-ab2c-f26b3f2c766b,Hogan-Duncan,Italian,South Heidiborough,Philip Keith,50,(837)896-5678x131,2.84,69,True
+a7beecf8-8f04-451f-a501-370a9f8a118a,Martin-Schneider,Mexican,Hardyhaven,Katherine Johnson,12,(384)744-8688x362,2.81,90,False
+cf3261fc-549a-41b7-906b-e3155abdb260,Blackwell Ltd,Indian,Kimberlyberg,Kelli Sanchez,58,529-340-5537,4.06,70,True
+209e1687-0d50-4dff-aaed-5c51bc455e80,Day and Sons,American,New Derekfort,Christopher Roberts,35,968.852.4348x027,1.42,97,False
+2b3fa844-b90b-4850-8ab8-2bffc955bff6,Hall PLC,Indian,Johnshire,Robert Peterson,18,(444)583-5456x1939,2.18,79,True
+18c0db40-511d-4fab-b991-6ea945e38dbd,James-Guerra,Italian,South Briannabury,Andrea Thomas,55,2223140238,1.62,25,True
+ad159947-731f-4765-9430-dc37c3773fd0,"Rose, Fuller and Lang",American,East Rachel,Caleb Martin,19,+1-348-612-7250,4.24,43,True
+2ffa5e4c-f9f6-41b8-b58e-bcf3a91a2302,Brown Ltd,French,Sotofurt,Barbara Meyer,58,837-507-7451,4.31,1,True
+df4d721e-4f3e-40f4-a076-cc3e8c78b54e,"Silva, Brown and Hendricks",Chinese,North Tony,Amber Valencia,56,+1-276-739-1651x03480,4.68,88,False
+c2e78e45-37a7-41ea-96eb-08202a6e3d63,"Lewis, Davis and Wilson",Indian,Port James,Joseph Vargas,55,(586)754-9663x2119,3.32,89,False
+68d7737a-9244-43a4-9e33-39991a6a7cc7,"Anderson, Maldonado and James",Indian,Laurenside,Louis Church,30,2099793755,1.27,69,True
+6f79cbdb-cd86-48cd-a76b-74eb847d944d,"Mosley, Jordan and Wood",Chinese,Turnermouth,Tina Bailey,17,+1-891-930-2556x00493,2.35,34,True
+49bfe5c8-509b-423c-8ff3-26e9958da2e2,Lewis-Mann,Mexican,Bradyland,Jesus Pace,13,+1-945-880-9614x182,4.79,52,True
+41165710-8470-409e-b29b-67f190e445e4,"Stephenson, Hall and Rivera",Chinese,South Kellyburgh,Kelly James,23,717.233.1797,1.7,49,True
+0dc12a1e-d975-42dd-a3e7-aad02f127e9c,"Fox, Roberson and Allison",Italian,New Brandon,Patricia Vance,39,(973)748-4612x77780,1.35,54,True
+2db64e0b-a3f1-4dbb-98e6-6ede054ed78b,Rojas-Cisneros,Mexican,Stephaniefort,Kelly Wilson,47,+1-469-461-7971x57039,4.55,95,True
+f69b8c17-d6af-4b69-b28a-372789becc5a,Wagner Inc,Italian,East Courtneyside,Andre Jones,46,330.643.1033,3.63,87,False
+e274c634-1a1b-41c8-9100-a168604130a1,"Taylor, Hamilton and Rubio",Italian,Kristenland,Vickie Coleman,29,952-758-5656x549,3.32,14,False
+506d2e57-ce8e-4b58-93ec-e563b34537ba,Taylor LLC,French,Michaelside,Diana Stevens,38,(567)393-3890,4.87,67,False
+286a3670-fc2a-4a93-907d-54d586218435,Cohen-Hill,American,Port Lucaschester,Gregory Rogers,47,+1-329-528-3000,1.77,92,True
+b8d0a353-e787-4adf-81a1-1f0658eb9f7a,Booker-Ramirez,Indian,West Daniel,Nicole Howard,24,394-545-2533x59153,2.26,74,True
+11b48366-abd6-41d1-8dd5-91d1a28ac5f8,Cook-Meza,Mexican,East Joanna,Wesley Underwood,42,001-646-888-7215x02878,1.72,66,False
+1b83f451-b85e-4349-b23f-80690a584332,"Cordova, Nelson and Parker",Chinese,Chaneyview,Jon Reid,42,858.605.5362,4.5,12,True
+44105f88-6b3e-4693-8376-bfc6634c2173,"Nelson, Holloway and Taylor",Chinese,South Natalie,Joshua Taylor,24,6518593101,3.97,93,True
+651390e7-9d70-4d3e-a9bb-08c0dfc2e325,Jennings PLC,Italian,Crystalside,Carol Mcbride,48,805-977-5638x2134,4.04,28,False
+547df115-5b1f-4c49-8b87-c0b4e4353f93,"Gordon, Carpenter and Ingram",Chinese,East Patrick,William Day,22,001-904-598-0381x8878,4.17,8,False
+9ab213b4-d467-41b0-92b1-79c25b4c7809,Lewis-Vincent,Italian,South Deborah,David Edwards,40,583-257-5398,4.7,32,False
+565dcd41-343d-4d9c-91f0-e3b6281e9372,"Ward, Andrews and Burton",Italian,East Christian,Alicia Cooper,39,(729)209-6360x488,3.29,39,True
+42f398b0-8a74-4229-bc9f-6321b2d4070a,Contreras Ltd,Italian,Bennettbury,Timothy Weeks,37,001-990-685-3407x981,3.67,67,False
+cb1d02e2-6a3c-461f-aac4-10fc078ec6ef,"Johnson, Mata and Gutierrez",Chinese,Chandlerfurt,Lauren Steele,13,689.846.4105x135,3.4,77,False
+b53ad5ef-d37e-4ea7-b07a-5bf7c822d3e3,Haley LLC,French,North Brettside,Alexander Faulkner,30,001-673-529-5585x6812,4.0,77,True
+a52763b1-6aaf-4066-ab93-de29bddbfb04,"Atkinson, Franklin and Burns",Italian,Lake Tina,Meghan Burton,25,(810)584-1936x7508,3.64,63,True
+7173894b-74dd-43b4-ab96-a2be377eec55,Murphy and Sons,Italian,East Heidi,Jacob Weaver,53,(307)951-1358x548,3.25,68,True
+88be49d3-080e-4aeb-bb94-991cf07e1f1a,Padilla-Bautista,Mexican,Madelineside,Monica Monroe,16,001-314-846-4610x3648,2.64,48,True
+42c835e3-a4dd-4aec-b458-ab710371cbb7,"Jones, Nelson and King",Chinese,West Andrew,Amy Brooks,36,001-964-989-7415x481,2.38,23,False
+a8f8f6dd-cd05-4400-b778-b6d604600f2a,Russell-Sanders,American,New Jodyview,Michael Sparks,16,(649)346-0546x383,2.54,90,True
+89daff4a-0953-4459-9a2c-2f238936fa49,Carter-Schaefer,Indian,Williamfort,William Ritter,18,001-592-289-3464x08595,1.22,29,False
+258f796c-5731-464b-8fe2-0333795fd917,"Richardson, Baker and Evans",French,Davidside,Paul Williams,26,(962)877-8943x5677,4.25,40,False
+76fa34dc-0712-48e6-a9a8-bb4e9d20d611,Bruce Ltd,Mexican,Leonardton,Stephen Zhang,34,+1-970-276-8482x847,4.04,30,True
+6c34e243-1957-469a-9488-22653a190a1b,Taylor Group,French,North Madeline,Lindsay Mann,12,356-859-7755,3.03,48,True
+c0559753-4a3e-485d-9fda-7122de76e7d7,Wood-Scott,Chinese,West Brianmouth,Laurie Christensen,39,+1-553-283-1267x94070,1.74,13,False
+3bf2c0c9-eb1a-4f89-b27a-37754e4cf265,Rogers-Baker,American,Jacobfort,Rachel Wise,34,998-493-2115x71311,2.06,75,True
+1f341d16-4499-4b20-88a8-c7408f0213c6,"Mccall, George and King",American,West Diane,William Brown,42,(834)834-4710x9094,4.24,53,True
+305c19c1-b90b-4c18-a84e-9f658db320f9,Lawson Ltd,French,Davidport,Sandy Burton,29,(480)226-1506x002,2.24,73,False
+cc617db2-4c01-4bb2-b62a-041ddb96795e,"Miller, Bird and Garcia",French,Mckenzieville,Michael Huber,21,(985)856-5710x5324,4.81,83,False
+d4856bb4-3b4c-4a5e-a3b4-3bd99a1316a6,Horton-Horton,Chinese,Grahamhaven,Sharon Lopez,14,+1-848-743-5599x2163,1.71,45,False
+58f347ca-f121-4097-af70-07cad7faf078,"Garcia, Walters and Jones",Italian,Hesterview,Mitchell Morris,30,+1-624-483-4887x51855,1.43,65,True
+48f4ae15-a650-4796-a38c-5c6638121561,Dixon-Cooper,French,South Danielfort,Dr. Sara Kramer MD,50,001-329-545-0588,2.91,80,True
+84b79823-04d1-4caf-b968-347f7d42a104,Turner Inc,Italian,South Codychester,Mark Davis,57,001-958-891-0163x734,3.33,100,True
+d1d72c1f-9f3c-4447-9d52-0eaff516be52,"Ferguson, Acosta and Harris",Italian,South Kathy,Joseph Ball,23,9174130938,3.63,1,True
+066e3003-4e95-4c04-83b7-b539d5024f65,"Jones, Wright and Moore",American,Loriburgh,Gabriela Sherman,18,528-902-3678x05367,3.4,62,True
+6e881478-7fa8-44a9-a099-44e2ba88e0b4,Rodriguez Ltd,French,East Micheletown,Ronald Fuentes,14,+1-311-736-6124,2.39,9,True
+9589efcd-7e09-413e-a183-477f36c88b68,Edwards-Mack,Chinese,Port James,Stacey Banks,23,945.650.7161,2.91,50,True
+fd78c135-0f7c-47c9-b769-2ca018efb8d7,James Group,Chinese,Jacobsonborough,Marie Gomez,29,3046224890,2.68,82,True
+034ea254-6be7-4d66-b972-d999e9507d64,"Williams, Hunt and Willis",Italian,South Christopher,Katrina Wallace,44,001-503-870-8978x0047,2.77,10,True
+03429400-1571-4080-ba22-e41833ca0160,Brown LLC,Chinese,South Hunterside,Stephanie Lambert,46,+1-577-964-1939,1.42,22,True
+4bda3621-733e-42ac-893a-996f47ae531e,Buchanan-Suarez,French,Smithtown,Ryan Evans,17,+1-713-851-3035,3.51,43,True
+c19aedc8-791f-4e6d-b9a8-bb35004ed135,"Butler, Zuniga and Jennings",Indian,Nicholsonfort,Kathleen Aguirre,10,2114672273,1.65,37,True
+89df3003-98cc-4dfd-bb44-63bb53e78b58,Rogers-Austin,Indian,North Richardland,Renee Campbell,54,(362)480-8818x577,2.98,29,False
+7693762a-9c6d-4fb6-901f-67ab48c89d3c,Young-Lewis,American,Wagnerport,Kyle Roberts,22,744-572-3031x23487,3.74,8,False
+2658edaf-1674-4cf4-8968-72778430a445,Reed-Aguilar,Italian,Amandachester,Kathryn Carlson,32,(921)366-5975,3.85,93,True
+5017b399-a704-4249-be58-d7d89438b0c7,Colon PLC,French,Wadeburgh,Jacqueline Jones,53,571.204.3217x172,2.65,30,False
+1cdcc1ee-b84f-45e9-88b9-13d507c30252,Ramirez-Sherman,Chinese,North Jenniferbury,Martha Johnston,60,(588)409-7943x8126,1.81,21,True
+c6dbaf91-1f85-4a88-9a15-5463925afba6,"Carter, Goodwin and King",French,Blevinsfurt,Jennifer Rodriguez,57,457.880.2732x83707,3.52,17,True
+fa3ddcd0-0480-4410-8bc4-da8aebd0c68b,Clay-Estrada,Chinese,Christophermouth,Scott Gonzalez,18,388-308-6636,4.13,94,False
+6fe446bf-7228-4954-8fc0-49f51c291125,Johnson-Rogers,Mexican,New Jamesshire,Mary Nelson,28,786.951.3757,1.75,3,True
+5433bf68-44e3-4488-a21a-6c7b42128799,Larson Ltd,Indian,Rebeccachester,Molly Wilson,22,9237212335,4.55,32,True
+24a617e2-98dd-4056-916c-1bebf97bf712,"Flores, Williams and Kaufman",Italian,North Christopher,Phillip Young,11,+1-375-590-2765,3.15,31,True
+1fac9385-9e89-44b9-9af4-9ef6330dfb76,"Smith, Alvarez and Estrada",Italian,Lake Ambermouth,Aimee White,44,+1-773-808-1904,2.22,46,False
+4269084e-972b-46ea-9690-96e9cb70f9b7,Smith LLC,Italian,East Aaronhaven,Darius Powell,35,(772)669-6399,2.94,1,True
+69afe15d-00c7-49c2-abb6-08154d1880cc,Edwards Ltd,French,Port Jennyborough,Frederick Gordon,25,001-789-372-2261x7938,2.48,32,False
+cfce9b5e-7e7a-4a02-b572-bb7db8093ec2,"Mcclain, Fuller and Lopez",French,Markport,Nicholas Price,51,275.848.6785,4.38,21,True
+fdf4e8c4-2237-461d-abdb-b399b9afe109,Cole LLC,Indian,Pittsshire,Joshua Fernandez,25,(788)582-5495x15465,1.5,69,True
+5861fc63-55c4-45c4-aecf-b74dac5dbe75,"Kelley, Diaz and Garcia",Indian,Delgadofort,Rachel Carson,53,364-218-7170,4.33,84,True
+9303124a-51c2-45d9-b15b-6e03a1c05352,"Walker, Wade and Dyer",Italian,South Thomas,Rodney Johnson,32,482-552-7331x31406,2.88,94,True
+fa0cb7ad-80d6-48f3-87ae-3fc746370f69,"Smith, Moss and Wiggins",Chinese,West Curtis,Sara Sutton,17,(800)541-9066x5000,4.45,93,False
+3326fe4c-b29f-4c62-8ff9-aa94d278553c,"Kim, Gonzales and Zimmerman",French,Vargasland,Betty Reynolds,46,399.783.4081x5745,4.93,52,False
+2e9fb95d-3759-49c5-a4eb-5e905c0cd664,Martinez Group,American,Laurenchester,Bradley Lloyd,29,001-820-833-2778x794,2.92,36,True
+089b9e52-8dc3-47bc-b3c6-b32869c0d627,Carpenter and Sons,French,West Dustin,Mark Ramirez,50,326.582.0886x624,1.61,48,False
+0516e068-06bd-4c8a-a86c-683f368aac9b,"Frazier, Walker and Robles",French,New Maryshire,Diana Wilkerson,44,561-262-3763x1405,4.61,63,False
+4c08926c-378c-4833-916d-663dcefa5747,Smith-Clark,American,South Randallside,Cindy Le,51,276-336-6855x40068,4.71,58,True
+5734c8a5-db62-4221-9829-1e0fcbcaa6d4,Wilson Inc,Mexican,New Ryanside,Samuel Singleton,40,+1-695-676-2357,1.14,28,False
+8f1006a6-2de4-45aa-9bb4-d34891d7917b,Johnson-Morris,Chinese,Samuelstad,Andrew Reynolds,11,(465)525-1749x4617,1.37,68,True
+54f7313b-bb04-44bf-b547-db35399ed811,Roberts PLC,French,Charlesport,Gerald Garcia,33,+1-471-710-3745x9785,4.99,26,True
+cf3acc7a-aa0a-494c-88ee-0aa829f03c0a,"Ruiz, Barrett and Harrington",Italian,East Mary,Lisa Anderson,60,001-629-815-6470x548,3.78,94,False
+a684b6ad-1984-4865-96a4-67d293a1b700,Woods-Hall,Italian,Janetchester,Christopher Haley,56,456-634-4738x56973,3.98,38,False
+7e7c5966-9def-4de8-a508-3ac8b5cb7ed0,Smith Ltd,French,Port Rachel,Brandon Murphy,33,989-926-4010x807,3.59,75,True
+ead393ce-7434-4984-86a9-c535bfba6fa0,Woods Ltd,Mexican,Port Gregory,Jasmine Anderson,36,001-306-469-5467,2.79,17,False
+68c0af4d-3a49-453c-b6da-5c56d2ad5de0,Nelson-May,Italian,Peterchester,Richard Delgado,20,(702)659-8187,2.47,58,True
+9f8f5be6-139d-46eb-9bc7-7438756d379e,Clay-Smith,Italian,Port Katelynmouth,Ryan Black,31,724.989.1552x35795,1.0,21,False
+f899a5da-a588-4720-8bd7-e903095715b6,Gilbert-Hahn,American,East Christopher,Mark Chandler,26,931-960-3850,4.52,58,False
+152432fb-dabf-4388-8f96-0df5b681b77f,Fisher-Martin,French,East Josephmouth,Toni Nguyen,45,610.741.8765x480,1.59,89,True
+d42fc173-1e1a-49ff-86d8-3e73799f2285,Scott and Sons,Italian,West Kelli,David Goodman,18,855-498-3455,4.41,71,False
+6a01faf9-7f89-4a0a-b0cf-c9d2d74b8275,"Parks, Wells and Greene",Chinese,East Ashleyton,Aaron Booth,55,752-799-4300x25264,3.78,23,False
+66042263-0116-4d2a-8a3b-a05c77a90eb3,"Brown, Johnson and Parker",Italian,Meganport,Mary Goodwin,49,(797)794-6702x236,2.06,95,True
+6e951bde-5c04-435a-8a4e-167fcb575835,"Cortez, Phillips and Brady",Indian,Port Markside,Sandra Pierce DDS,58,221-210-1178x205,1.94,53,True
+88e27f3a-b337-4745-a121-d1b1e3352260,"Smith, Perez and Lee",Mexican,East Lisachester,Mark Cameron,44,755-842-1215x7414,2.01,5,False
+84411a4e-85de-456a-95b4-1dd4c81e5de5,Smith-Choi,Mexican,Alexmouth,Derek Nicholson DDS,27,(679)739-5904x511,2.01,15,False
+adf8b7ee-2435-44d2-b1e9-655dfce44fcb,Melton-Carr,Mexican,Crystalmouth,Jennifer Wilson,12,5489919227,2.21,46,True
+00f42543-f19b-41d2-b0d4-eb44eb4fb380,Smith Ltd,Chinese,Owensview,Maria Anderson,12,+1-555-291-7801,4.95,93,True
+d8f4f2fd-a90f-4ec4-9cd3-4e35227b0659,Daniel and Sons,Mexican,North Marie,David Clark,33,813.568.7839x79934,4.42,74,True
+b2c0fb4d-836f-4df1-a136-fc8574a46448,Smith-Evans,Italian,East Juan,Raymond Wood,47,(779)987-7191x3568,1.19,41,False
+4507b6f8-269f-416e-9b93-acfda1aad743,"Kelly, Schmidt and Flynn",Italian,West Taraview,Jamie Brown MD,37,001-906-702-8861x09225,3.09,76,True
+cda901fe-c59d-406e-b58b-86e8a37d7fc4,Maldonado Inc,Italian,Roachland,Tina Schmidt,39,812-623-5064x559,4.59,11,True
+5bff0e16-a510-4ed8-9f56-177599d1400e,"Sanchez, Hernandez and May",Mexican,Destinystad,Lisa Herman,45,201.336.4951,3.55,67,False
+5460b288-39e9-4e84-8815-79fc85466a66,Peterson-Herrera,Italian,Danielton,Ann Harris,56,(814)938-1445,2.63,41,True
+87a9a858-6f5b-4a95-a008-eece6d59b6ef,"Rodriguez, Hill and Romero",Italian,Deborahton,Shelly Curtis,48,607-705-8342x9915,2.67,49,False
+449aba37-558f-453b-a253-1f85f05a987e,Phillips and Sons,French,New Beckymouth,John Becker,46,(755)364-3864,1.87,18,True
+4eb9c01c-e25a-4937-9ec6-e8ce4f07b0a5,Lewis-Hunter,Indian,East Andre,Megan Kane,60,266-547-9265x230,3.06,33,False
+3f97b2f7-15dc-45e6-9326-1580fa920be2,Padilla-Green,Indian,Robertmouth,Samantha Taylor,60,430.775.8639x56416,1.28,9,False
+18588e4c-56f7-4c9f-b1f5-2146af1a24ce,Hill-James,Indian,Blaketown,Christopher Raymond,39,6472353802,4.13,31,True
+5cbc97db-080a-419b-ab3a-2ccf91fa11e9,Hawkins-Wolfe,Indian,East Jacobland,Alexander Martin,58,442.988.3003x975,3.53,25,False
+448386a0-6e31-4e3a-95e4-b7417c06d64e,Hart Ltd,Chinese,Port Davidberg,Jessica Jones,17,(566)273-9241,4.87,43,False
+ee322bdd-d23d-4833-99b1-50872f20f512,"Woods, Rojas and Anderson",American,West Sarahfurt,Daniel Davis,29,460.656.8241,3.36,66,True
+2e994a57-37a0-4985-a01e-5ced6eadca35,Kelly PLC,Indian,Barryton,Stacey Peters,54,234-778-4713x3794,4.86,71,False
+200222f8-3197-40ce-98dc-98b6ce4f9979,"Brandt, Ramirez and Moreno",Mexican,Dianebury,James Evans,28,917.265.3911,2.86,53,False
+d9ce150c-a9b6-4811-bff4-0c931cd48706,Parrish-Hoover,Mexican,Port Kimberlyhaven,Jennifer Gonzalez,53,001-281-606-9447x4077,2.65,67,False
+53f3a48f-c455-4037-85f3-889a5bb20815,Walton and Sons,Mexican,Sanchezhaven,Levi Jefferson,32,697.246.8992x61648,4.19,50,False
+76d0f8cf-8c56-485e-9f59-adf3b0271718,Nichols-Hodges,Italian,New Jeremy,Matthew Jones,60,482-824-1975,5.0,17,False
+49787440-d501-4092-b31e-c4bb8179f31d,"Pitts, Miller and Mccarthy",Mexican,Lake James,Jeffery Nguyen,47,747.483.1298x62893,2.55,92,True
+3c65e9b3-ee2f-4c7b-9257-482aa183cf6a,Cook and Sons,Chinese,North Melanieport,Amber Terry DDS,20,743-309-1315x0762,3.67,63,False
+6c629fe9-a447-4b25-b6e5-67b8e3719ed6,Shelton Ltd,Chinese,Christinafurt,Sydney Gonzalez,58,719-651-3266x6920,1.19,60,False
+ff761d9a-e032-4304-a9ff-3286af6f9bd7,"Frank, Garcia and Thomas",American,Timothyfurt,Christopher Gomez,60,580.568.0832,2.03,87,False
+b5aca5bd-8ace-41c9-82fa-30477f58ee66,"Martin, Lopez and Marshall",American,West Matthew,Sara Ramirez,33,(826)795-8367,2.6,81,False
+3b447be8-ab3a-42c5-af39-75c2abd31492,Sanford-Wood,Indian,West Megan,Morgan Johnson,35,001-234-325-7161x774,2.8,1,False
+e4f1d567-e4f2-4963-a0bc-6abedd5d8c00,Herrera-Rodriguez,Chinese,East Jordan,Bryan Hunter,47,668-489-4756x96903,1.33,80,False
+a1868817-291e-4252-a529-dcd13d24bd8d,Chambers PLC,American,Mooreburgh,Thomas Johnson,60,(800)981-6160x657,4.61,3,True
+b2b38d0a-5a0f-4e8a-a45d-12f6ac697126,Grant-Brown,Mexican,North Calebfurt,Alexandra Edwards,27,(480)277-4893,2.41,42,True
+8bf19092-7d39-43fc-81cb-ee11835648d2,"Brown, Hardin and Wallace",American,Deannafort,Eric Hardy,27,001-405-288-9507x1865,2.92,19,True
+0891538c-f148-4387-bfae-a540cff4f632,Christensen Group,Italian,North Brendaview,Richard Lutz,43,+1-240-808-5153,3.64,13,True
+1ee9e8e4-2954-400c-8c8f-263bafde2c15,"Kane, Zimmerman and Dyer",American,Jessicafurt,Michelle Miller,55,001-501-448-0811,1.04,64,True
+0dcb99a0-b9a0-4f71-b29b-126e5a0b3a6f,Adams-Cohen,Italian,Mckinneyfort,Justin Horn,57,+1-923-586-8735x9391,4.63,57,False
+02102f37-429c-4e8b-a53a-75edf5bcfac5,Casey-Wang,Chinese,Stevenshaven,Joseph Long,52,626-532-8886x5871,3.45,81,False
+4a2aa9c8-1ae1-4c13-9315-8ac05dba0bc9,"Edwards, Nelson and Davis",French,Leemouth,John Horton,20,957-578-9671,4.72,56,False
+ad647cf9-1194-4348-9a41-73e6f76d0a74,Miller-Bell,Mexican,Lake Tamaratown,John Horton,20,897-884-8497,3.77,0,True
+73be1305-8252-4584-b472-569ff2ac6a25,"Williams, Lucas and Simon",Italian,Tarahaven,Frederick Lewis,60,(823)360-1446x066,1.95,81,False
+72b4076a-a9cb-4f70-a2aa-7542606254b9,Chan LLC,Chinese,South Juan,Carla Olsen,27,3152183131,2.96,44,True
+a27ef242-c8c2-4c9f-bb69-e1a3d04743ee,Edwards PLC,Italian,South Jacobchester,Caitlin Davis,42,001-397-799-3881x274,4.69,0,True
+29e02b96-8c0a-483c-abe0-fca5bb6eb366,Richards-Freeman,Indian,New Sydneyfort,Alexander Sanders,44,001-706-433-6701,1.12,30,False
+3f552a1a-f75b-4ce8-af31-4e7d65657eb4,Carr-Williams,French,Howellville,Steven Powell,51,309.632.3196,1.3,22,True
+1151ac5a-a52a-415e-a63b-12f1d914302b,Holland Inc,Italian,Port Amber,Jose Moore,41,901-451-6191x15985,1.8,47,False
+148b16d6-cab1-4e23-aa77-0e7d427485b2,Sanchez-Smith,Mexican,Whitestad,William Harris,36,2035030053,4.46,39,True
+0496d765-bd5a-47e1-b717-f16775e646d3,Martinez PLC,Italian,Liview,Justin Sullivan,41,001-524-256-3624x5684,2.38,56,True
+4e4fd47f-7711-454c-a7ae-c69b3e46d3d2,Ingram Group,Chinese,Mcdanielberg,Michael Mullins,41,676.500.5521,4.86,87,False
+0b54d169-efa1-48a9-aadf-faf445fba0fc,Miller-Cox,Chinese,South Kelly,Reginald Mccoy,54,(976)834-8364x8548,3.11,63,False
+6e4dad6a-2801-444f-a224-d517abf38d79,Reed-Barrera,American,Ryanland,Kelsey Salazar,40,556.303.7334x5236,4.1,35,True
+e5a85b49-7d67-4b27-87b4-73429af96651,"Allen, Jordan and Martinez",French,Millerton,Jeffrey Robinson,23,+1-619-973-8268,1.11,38,True
+87bbfac7-e559-40c5-a68a-fbc4ea998506,"Murphy, Hodges and Marsh",Indian,West Renee,Jennifer Davila,34,(639)854-2506,4.03,22,True
+0e6ddc6e-93ac-4e50-b830-f4ebe37d15cc,"Payne, Winters and Gibson",Italian,New Anne,Alexander Dawson,18,842-578-1401x75968,3.17,50,True
+2038fa23-530d-42d2-af35-fb4a338f8d5e,Stout Group,American,Garciamouth,Connie Powell,15,+1-499-284-0229x176,1.59,49,True
+35801b59-8b7e-48c6-94ab-21d57c636f86,"Smith, Hill and Vasquez",Italian,Dixonfurt,Kyle Long,38,001-887-685-7747,2.07,88,True
+69142186-d5c0-41d9-be9e-5322bf68bd67,Clark-Larson,Mexican,Santosland,Jason Aguilar,51,942-872-8916x897,3.42,55,True
+07c4caf6-8bed-4d14-99fe-a1e418fad452,"Rogers, Peterson and Cox",American,Dustinstad,Mr. Ronald Chapman,17,679-363-9662x76471,4.86,25,False
+c22012c4-8678-44c8-8b8a-85db2875ebb7,"Mcdonald, Stark and Murphy",Italian,Nicoleborough,Frederick Merritt,24,235-966-1958x2553,4.51,76,False
+34dd7b85-b5e5-413c-baa2-f7887cf4972d,"Burnett, Hanna and Terry",French,East Jeremy,Alicia Cox,51,+1-758-856-9604x465,2.66,72,True
+6db93195-007f-4be6-93dc-a9a359ece28c,Gordon-Thompson,Chinese,North Margaretstad,Sarah Harris,41,(740)700-0434x465,2.27,84,True
+17bd9ab9-231f-4ae0-ba7c-eb1f8abde8c0,Ortiz-Vasquez,Italian,Riverastad,Amanda Lopez,20,(507)912-7351x80933,2.47,87,True
+d19bcd3c-2da1-425d-a62c-580e10543bf8,Bonilla-Avery,French,Dariuston,Ronald Jones,10,(756)769-1408x5825,3.19,49,True
+3cc048d5-2376-47cc-9dbe-c172e7705e4a,Hess LLC,American,Thomasstad,Jessica Salazar,48,(784)833-5666x0333,1.55,16,False
+5ca5e3bb-b9aa-47bb-8375-6abb2fdb56a5,Harris-Holland,Italian,Nicholashaven,Amy Garcia,60,+1-465-246-5996x0226,1.24,81,False
+5ec26c70-2a00-42b3-8ec7-d81fcac041ed,Gould Ltd,Italian,Smithfort,Lisa Johnson,44,755.655.5463x082,3.78,27,True
+fbfc407d-826b-4b5a-b78e-3d322b354a6e,"Ferguson, Santana and Anthony",Mexican,East Jamesview,Laura Lee,25,001-674-288-2040x69746,1.7,89,True
+6776992b-c10d-4745-8eca-33ec0a5a022f,"Gonzalez, Bryant and Ware",Mexican,North Robertfurt,Jordan Roberts,12,479-368-0583x036,3.08,95,False
+2d71c310-08ce-412f-8b58-bf710d94adba,"Lucas, Boyer and Robinson",French,West Jessicaton,William Gibson,59,357-374-4526,2.23,63,False
+cfb0f9f3-0568-46e0-a23e-fde02025e955,Simon-Obrien,Mexican,Whiteton,Meghan Anderson,16,(464)904-8426,3.8,52,False
+c53d8192-1bfd-4e24-969c-df295f0202e0,Green and Sons,Mexican,South Kim,Robert Hart,14,+1-634-673-2158,3.91,44,False
+5b7963eb-a84a-4982-95f1-ee3f7222af4b,Hurley-Haynes,French,Lake Meghanborough,Kelly Johnson,49,979-686-7833x0868,2.64,50,True
+e775b254-b5ab-4d1c-89f9-c9e63823c989,Rogers-Patel,Chinese,Lake Jessica,Candace Ortiz,49,7842710750,3.45,48,False
+00f93864-96d3-4a37-8014-8655eeebadba,Harris PLC,American,Lake Bryanborough,Mrs. Amy Carter,54,397-345-6633,3.18,1,True
+4d10f252-8efa-4767-963d-e40e971fbc8d,Tucker LLC,Indian,Carolynshire,Anthony Acevedo II,51,920.733.4288x7223,3.95,69,False
+20919f43-d1da-4981-b6df-ca75c24194c1,Townsend LLC,American,Elizabethland,Joseph Thomas,32,8049720459,4.3,29,False
+23077723-fb4d-4dff-8ea9-2be6fff6ea62,Brown-Taylor,Italian,Debbieton,Annette Shaw,48,001-477-863-9685x83232,3.38,15,True
+57c10e8b-34a4-4cb9-a798-6a6db6ab9285,"Tanner, Davis and Edwards",Chinese,Natashamouth,Amy Robinson,35,4935274706,4.47,91,False
+0f10872d-9067-44ba-a43b-717ed90500ee,Butler Inc,American,Beltranbury,Justin Lopez,14,9357994443,3.66,20,True
+300fc97f-54da-4565-875b-392d6ca6d759,"Park, Munoz and Evans",French,Lake Jason,James Stevenson,28,001-931-705-7907x4406,2.34,59,True
+15e76594-2875-4da4-89b2-3a471962e10e,"Thornton, Flores and Carpenter",Chinese,Paulland,Kevin Gomez,40,231.699.7562x2829,2.62,51,False
+c02cef74-ba52-4579-a508-47f1d0e2f66b,Martin LLC,Chinese,North Shawn,Jordan Williams,16,392.489.1180,4.65,80,True
+09940987-d5b5-4cad-a2cf-020f6e4626c4,"Fleming, Davis and Hood",American,East Jonathanview,Carol Rivas,29,(498)796-2100x26437,4.49,10,False
+dcb7d4c8-5ce3-48ff-9fa8-615452ec524b,Little PLC,Mexican,Jamesport,Joshua May,17,936.439.9472x478,4.45,28,False
+6f28f6b8-3f08-4686-8dca-8861ec003f23,Petersen and Sons,Chinese,Mikeview,Dennis Young,18,852.457.7808,1.89,86,True
+c12d9757-b321-481c-ab95-4ff8a11eefda,"Frye, Edwards and Thornton",Chinese,New Cindy,Timothy Graves,36,(506)416-1016x1580,2.56,7,True
+952483b9-c3a1-4fbd-9bb0-931d6f7204bb,"Rose, Arnold and Conner",Mexican,Lake Seth,Christina Park,33,+1-363-303-3542,4.55,4,True
+0f41d30d-3756-40ce-84f2-422c7c95c28e,"Walker, Fitzgerald and Castillo",American,West Richard,Dylan Thomas,46,720-782-7694,4.14,30,False
+e741d4be-9a20-44dd-9bae-7a8604506271,Jenkins Ltd,Italian,Dianaview,Jeffrey Payne,45,373-326-2074x4814,2.4,59,False
+4c79ce63-ef3e-4142-b690-1db1674b4b43,Hughes-Torres,Chinese,New Johnview,Kevin Brown,41,(621)219-0773x0722,3.26,67,True
+68a18b22-c406-43f5-ae4a-21bc6ed22b9a,Gonzales Inc,Indian,Lake James,Barry Barker,35,6056547510,2.54,98,False
+e149a345-e5d4-4a3a-9880-0f7c8cf5e683,Jenkins and Sons,Italian,Lucasside,Megan Mckinney,44,(902)620-0853,2.69,94,True
+c72f5c78-8356-41ef-9dd4-48c806531e2a,Joyce-Gutierrez,Chinese,North Rachel,Justin Stanley,59,694-898-6797x5556,4.18,36,True
+989e0914-bb76-4ea1-907e-ab30bbccd864,Jackson Inc,Italian,Tinaton,Tristan Lin,54,234-977-0093,2.64,65,True
+b3bbabb8-5bab-4986-b548-07f188ab2b58,"Anderson, Castro and Brown",Chinese,Heatherfort,Kayla Schneider,17,001-963-942-6017x221,3.96,2,False
+90ff1194-6e30-4363-94c0-9b0664cd16a2,"Kennedy, Gomez and Adams",Chinese,Bryantborough,Paula Riddle,33,477-973-8321x32276,3.03,61,False
+261c821d-8d21-49b0-995a-02d98cd0654e,"Sullivan, Young and Salinas",Italian,Williamshire,Ashley Jones,38,498-630-1345x751,1.71,47,True
+02f90e5c-243d-4c6c-a2aa-fb0deed25273,Gonzalez Ltd,Chinese,West Alexanderview,Curtis Reed,16,7889293038,4.87,51,False
+7d1f8974-87f8-4973-ae36-fed6e86e0bd3,"Rios, Thompson and Smith",Chinese,Smithfurt,Courtney Cabrera,58,436-988-0242,4.1,85,False
+889f3b0a-4888-432f-8d66-69e6034c9523,"Davis, Miller and Stewart",Indian,Christopherborough,Monique Tucker,29,(878)912-1872,2.03,48,False
+7306c08d-90d8-4a61-9964-3482f7261d9a,Gill PLC,French,Walkershire,Lori Allen,14,001-410-764-8571x650,2.34,46,False
+3cff31f0-1e69-47ea-92ff-8e3b3e7883ab,Phillips-Giles,French,West Thomas,Todd Lambert,17,8016388294,3.97,62,True
+ff35cd0e-ebfe-4068-bd6b-af97df4f600b,Olson Group,American,North Margaret,Brandon Stewart,28,585-979-1616x15421,1.3,25,False
+cc6ee0a2-af4f-4cd5-a5c3-c55f15be2e97,Flores Group,American,Bakerfurt,Bryan Young,22,872-270-9821,2.19,56,True
+c4f217df-2adf-4dc9-ba3e-eb84f7b48a26,Collins-Wyatt,American,Connorhaven,Jon Braun,19,001-461-965-1268,4.36,4,False
+1eb89997-b06f-4352-b42f-cbe8264ead8f,"Duncan, Gillespie and Brown",French,Smithshire,Alexis Skinner,48,+1-779-241-4068x09868,2.9,99,True
+8bd41989-53de-465e-a80b-980eecd0619b,English Inc,Indian,Chelseahaven,Kyle Cox,26,(732)640-1119,3.72,94,False
+feeeed86-3804-4d1f-823b-33f36ddb41be,Martinez and Sons,Chinese,Jacobfort,Gary Mendoza,19,001-594-255-5280x2726,4.44,70,True
+711fcb2f-858e-44ff-b1d2-5a5d100be0fd,"Arellano, Hernandez and Whitaker",Italian,Port Joanfurt,Taylor Ross,29,(521)627-0371,2.58,90,False
+08d7d608-657e-4a01-b35a-8acea3274eec,Castillo and Sons,Mexican,Snyderfort,Greg Wade,48,(973)743-9523x37848,2.58,70,False
+d3f7c0b0-3e0c-4f36-9224-58640e22c5dd,"Patel, Adams and Riley",French,Penaside,Rhonda Calderon,34,849-524-0170x106,1.33,85,False
+e753fd34-13a7-4aff-8cdb-0d38ad151772,Mccann-Yates,French,East Jonathan,Billy Fernandez,38,(379)907-0401,4.55,84,True
+491a0ded-5b23-4773-bcf7-6a1e9902c4cc,Lamb-Parker,Mexican,South Julie,Abigail Cohen,30,001-315-591-8528,2.9,69,False
+a332a0c6-1fec-4d13-a187-cb54d2f44644,Peters Inc,French,East Susanberg,Benjamin Ellis,47,+1-318-882-5676x714,4.3,20,False
+dc3f3321-cee4-47b1-b69f-643b21d3a130,"Velazquez, Moore and Meza",American,North Thomastown,Frank Johnson,51,895-721-2274,4.5,78,True
+d8f2ed19-0d19-4972-b198-5aa90d5e3d7e,"Watson, Jones and Mccullough",Italian,Port Michaelfort,Timothy Gibson,51,(891)778-7223x343,3.34,61,False
+8b9e718e-24cf-4a2d-8e04-cdd68b34d88d,"Jordan, Parker and Morris",Indian,Sherylbury,Jennifer Hamilton,36,639.340.2444x5549,2.47,89,True
+7f449b99-f34e-4168-b719-d868edd63d9d,Clark-Powers,Italian,New Shelbyfurt,Bernard Gray,43,001-906-219-0393,4.63,63,True
+ebe2217f-9d4e-4cce-af56-de1b0240b52a,Cooke-Robinson,Mexican,Sharonfurt,Samantha Patrick,24,(812)461-8636,2.91,17,False
+66fdbd4a-658c-467b-9819-f3ebd5931b27,"Robbins, Moore and Le",Indian,North Patrickton,Mitchell Rich,23,001-483-673-4660x24303,3.41,70,False
+e26df6a0-9082-44ff-8438-a29722ea09b6,"Warren, Kennedy and Morales",Indian,West Julia,Michelle Alexander,58,+1-633-962-9960x180,1.83,35,False
+f58dbe73-f2fb-4421-af9f-8b215ac13720,Johnson-Thompson,American,North Holly,Heather Castillo,24,(379)659-0551x2010,4.45,71,True
+bc757b0d-6f6e-4493-b965-78692163517e,"Hill, Anthony and Jones",American,Sethberg,Michael Parker,56,001-310-864-1252x787,1.3,97,False
+e4fbaa61-a7c7-4953-a6c7-9a46b470c691,Miller and Sons,French,Philliphaven,Courtney Lowe,41,463-540-2853x64197,1.45,17,False
+35d53145-0bbb-469d-8bae-ed3a4daf7cf8,"Jackson, Patel and Daniels",Chinese,Michaelmouth,Meredith Miller,32,784.850.1463,1.04,58,True
+2a0d1898-ee9a-43d9-aeef-a6fd8dfd8e33,Wright-Alvarado,French,Lake Mauriceshire,Shannon Martin,32,(205)233-7172x439,1.18,66,True
+ab787bfd-1c55-46b2-8463-a956462697b3,Callahan and Sons,American,Johnberg,Crystal Henry,15,3742003676,1.14,41,False
+a4ff0b89-7334-4d47-8143-716d6154fd60,Harvey-Erickson,Mexican,North Frances,Matthew Price,16,+1-877-580-8477,1.47,84,False
+d260b285-8aed-4b14-b5fa-defa3da15071,Washington and Sons,American,Riversland,Derrick Johnson,33,+1-600-525-7317x67431,1.72,33,True
+a4fe497d-f461-4ee6-b46e-5d4e7b31b840,Shepherd-White,French,North Samanthaside,Jason Rodriguez,28,(387)716-3458,2.67,11,True
+a38abb78-d085-4931-9bee-9290d31a42df,Wheeler and Sons,French,Chentown,Ruben Stevens,18,495.410.8465x35981,1.21,48,True
+ea05a5f0-4be1-49dc-9d6c-6ba27dffc06e,"Haley, Savage and Gardner",Chinese,Lake Rodneyton,Daniel Patterson,50,(859)463-9519x98488,1.68,100,False
+4d207310-4dfa-4ede-a18e-cf61a96497c8,Williams-Scott,Chinese,West Aaron,Zachary Smith,58,(658)891-3950,1.41,39,True
+4eb748bb-2293-4ecf-aa83-b1eb4b8cf5e1,Jones Inc,Indian,South Stephanieville,Jamie Foster,43,(582)329-4743,4.44,17,False
+11ad1b31-89fa-4040-89c2-34186284ff22,Fletcher Ltd,Chinese,Joshuaborough,Kimberly Miller,38,001-681-759-4061x0654,4.76,76,True
+b2e0c839-c9b7-4966-8edb-c6338e49f4ce,"Armstrong, Collins and Colon",American,South Brandi,William Carroll,19,289-986-1649,2.74,52,False
+fc02e8c5-c6c4-4fdd-b6b7-ab0294499c75,Floyd PLC,Italian,Mooreberg,Samantha Ashley,18,+1-485-252-1243,3.32,22,True
+4259f83b-dc7a-4f11-90d7-5beb5007643d,Gray-Phillips,Indian,Lake Ricardotown,Christopher Jones,30,(697)868-8163x91722,2.95,49,True
+3d315f7c-d575-45d7-b245-ebf580d7f2e8,"Cisneros, Davis and Sloan",Italian,Hayeston,Sally Elliott,13,+1-427-549-8604x53505,4.8,86,False
+53b7e63d-ce32-43eb-be0b-29ff2622934b,Henry-Wise,French,Glennville,Claudia Rodriguez,60,712.245.1053x934,2.84,63,False
+e31e513a-9e18-494b-865c-ef46855f7555,Wood LLC,American,Jamesborough,Claire Roberts,48,(253)784-2679,3.72,39,False
+2241e776-d8a3-41ab-a962-acd04863fff4,"Nunez, York and Crawford",American,Watsonfort,Matthew Watson,52,634.974.8784x864,4.89,15,False
+3f64e396-7a39-467d-9624-82b32e4c3e29,"Warner, Daniels and Brown",Mexican,Blakeberg,Robert Bryan,20,512-851-1528x60626,3.92,52,False
+e45737fe-9573-4195-b4d3-d79f2f198cb7,Gardner and Sons,American,New Rachel,Debra Ross,35,559-333-0408x4123,2.57,91,False
+bc40eaa0-86a3-45b1-b878-cf3db7007653,Robinson and Sons,Chinese,Brockville,Andrew Wilson,13,(900)512-4650x115,4.75,6,False

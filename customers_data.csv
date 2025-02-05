@@ -1,0 +1,301 @@
+customer_id,name,email,phone,location,signup_date,is_premium,preferred_cusine,total_orders,average_rating
+c20cd0bc-ed21-4354-bd48-5679825c671e,Jeremy Montoya,butleralexandra@example.com,808.459.0660x15330,Port Aaron,2020-02-04,False,Chinese,89,2.7055222329822444
+ddd3d06c-3ada-4805-b13c-7548feb4399d,Keith Barber,patrick14@example.net,8645217693,Stonemouth,2021-05-24,False,French,66,1.0435950101701041
+b4d098b5-7b44-4881-864a-f9330f98cb7d,Brandon Hill,acevedodawn@example.com,388-956-9070,Clarkview,2022-09-28,True,Chinese,24,1.2430926261328725
+a7ce07e4-bf40-4723-9ff3-f92085ceb3f7,Whitney Phillips,acostalisa@example.net,001-354-395-6099,Lake Brian,2022-06-24,False,French,81,1.0296241871510556
+0061c6ed-747f-49e1-8cf7-3ed446bcabb1,Monica Wright,douglas48@example.com,(688)267-3197x23612,Taylorshire,2022-01-18,True,Mexican,27,4.748075527409056
+ab1f62c4-aea6-4588-98a5-8cae671b6649,Anthony Fields,amyreyes@example.net,(808)970-8347,Rhondatown,2020-09-01,True,Indian,50,1.6443074688615176
+35dfb242-44e7-4818-83d1-7aa2fa9995e5,Madison Maldonado,kristin85@example.net,(262)661-6830x154,Fuentesburgh,2023-03-20,True,Mexican,27,3.5505739463781993
+a3154305-adae-4782-ae08-8f56b7c3a134,Rebecca Freeman,rodriguezchristie@example.net,+1-256-620-0195x769,East Makayla,2023-03-24,False,Italian,57,4.984092293588065
+171e776d-1fb0-492b-a1c5-bd1a6c959f35,Rachel Cook,nnicholson@example.net,+1-768-460-7319x54847,Clarkshire,2023-03-18,True,Italian,25,1.352585794694026
+4f61d8ea-b91b-42e8-8fb5-b966c04011b5,Vanessa Chandler,jmejia@example.net,871-377-8357x38900,Carrieport,2021-07-24,False,Indian,75,1.1888769660199814
+f424dfc3-ed22-49a5-8d0d-a80d41613336,Cathy Johnson,danielleholland@example.com,270.481.2146,Andrewshire,2021-05-25,False,Italian,69,3.0884289165421457
+f3e50108-c6ec-4787-ab85-772ab4f94078,Christian Smith PhD,estesjohn@example.com,881-628-3880x880,South Christina,2024-02-24,False,Italian,5,3.8444655144755933
+cb137200-8e75-43a3-9cf3-2615bcc012e0,Tanya Lambert MD,lmiller@example.com,+1-409-988-3280x95146,Bestview,2020-05-20,False,Mexican,21,3.163595505586598
+7f175cb3-5dc1-46cc-b64f-778eb8132852,Ashley Meyer,emily00@example.net,(393)510-9877,South Aaron,2022-06-19,True,American,41,1.8032863952282492
+7ec03617-ab66-4b0c-b2d1-49c274c224cb,Luis Blanchard,matthew25@example.org,(453)944-9797x966,West Kristen,2021-12-15,True,American,31,3.3240173460047626
+08bf3e2c-1239-42f9-9f70-d03678221acb,Tara Garcia,benjamin35@example.org,493.517.7326x61481,Tranchester,2022-05-19,True,American,63,1.3946587797673606
+859a506a-5849-4628-b7a8-82db1ec1f598,Michelle Humphrey,ngarcia@example.net,6086525305,West Jasminemouth,2021-12-06,False,Indian,28,4.252277912900003
+8fbb7e9a-24d2-4429-8bdf-b658f16c1915,Katie Page,aliciaperez@example.net,665.730.0086,Port Stephanieberg,2022-10-17,True,American,42,4.664876793281302
+4b693d24-cf80-4987-9a2e-7b3e868d7e4b,Amy Rojas,mcintoshpeter@example.net,+1-526-828-5871x078,South Kathleenhaven,2020-01-20,False,Italian,86,2.287533120950973
+a181372c-4919-4a27-ae84-153c696b0ea2,Donna Smith,jenniferleonard@example.org,+1-225-518-3855x9524,Lake Michaeltown,2024-02-06,False,Chinese,66,2.335188209357906
+f5ea7987-d9d6-483c-b80d-d6d4fae014f3,Aaron Paul,lbrown@example.com,480.788.1494,Millerville,2023-09-09,False,Italian,10,2.9841968786743007
+ba7efa9a-1304-475e-9ed5-cf09585e023f,David Benson,michael29@example.com,001-583-995-9946x368,East Sarah,2023-01-31,True,Mexican,6,1.5306603562346583
+0edcba8a-b051-47f7-bbec-247699a50abd,Emma Ochoa,tammy23@example.net,327-630-4843,West Heidibury,2020-11-13,True,Italian,91,2.207180760491178
+856ea27e-4fa6-4cd0-b45d-eb94b7f69966,Christian Mann,hurstlisa@example.org,001-382-597-3761x6111,South Sandra,2021-09-05,True,Indian,33,1.3056120483404747
+d8817446-3c02-4221-9ba8-29528097b3ef,Teresa Hale,lorichristensen@example.net,(725)417-0955,Davidview,2024-01-23,False,French,92,1.6129549058947092
+fef9e256-5203-409b-9886-49e378b61fdc,Jennifer Gray,marcusgonzalez@example.org,(318)726-2788x531,East Nicholasbury,2020-01-27,True,Mexican,26,1.2249388612408758
+ebef5e57-8669-4ac2-850c-d319c1b8162c,Amanda Cummings,david34@example.com,525.246.3830x839,Staceymouth,2024-02-13,False,Mexican,25,4.053092750884357
+7f21a1d4-7caa-4410-b976-5504f4e9c313,Daniel Higgins,danielle32@example.com,579-336-3426,Johnsonland,2024-08-27,False,Chinese,45,4.769173042127054
+945fe773-08a0-487e-bbeb-3851a4fee4a1,Andrew Phillips,uobrien@example.net,(929)669-0065x681,Courtneyborough,2022-12-16,True,Chinese,34,2.6139658923110485
+1e0d35b8-b03e-4310-aea8-4451bc66a99e,Melinda Edwards,ywilliamson@example.com,(763)650-9245x999,North Rickland,2020-01-02,False,American,14,1.6447830554030856
+0f0dc54c-4d79-4b41-aedf-4db335fef0ff,Debra Fisher,amanda51@example.org,6538644814,South Lindsey,2023-07-23,True,Mexican,59,1.9738546566231774
+370dbd75-9206-4cec-ac81-901cac39c1c1,Adrian Rios,donald92@example.org,+1-777-241-5199x794,Susanton,2023-12-17,True,Indian,43,3.10508192272773
+b9c39703-0743-4271-a5a3-1912f1c4bbdc,Daniel Johnson,byrdmichelle@example.net,789.497.4583,Bryceside,2021-09-08,False,Mexican,39,1.985933265780246
+5b0be1f6-8ccd-4768-95bc-987c15aa0974,Jason Wiley,kevinreed@example.org,803.827.1756x9610,North Anthony,2020-11-16,False,Indian,98,3.2212423151258016
+7fc80e45-5bd4-49d7-bdfc-17dbf93f6ef7,Teresa Webb,jorgecastaneda@example.net,(987)267-0715,West Sheribury,2022-12-26,False,French,38,3.554548783050383
+1f1bb3ad-51b0-40c6-aa63-2251371c1d5a,Lisa Bartlett,wbrown@example.com,(761)643-9564x971,West David,2022-06-16,True,Mexican,62,4.237837071872532
+1dda619f-1a72-4233-b83f-6127dccd149f,Jeremy Barker,kturner@example.net,268-580-7583,New Garrett,2022-04-27,True,Italian,11,4.95943143503653
+91cd06a4-74e8-41f3-83a9-a4a0ad99f00c,Sharon Stokes,vmoreno@example.com,823-948-4957x0361,Hesterhaven,2021-08-06,True,Indian,17,2.7979126607723623
+3d28c8a8-71a1-4fc9-a400-7d1e38721486,Michael Brock,psanders@example.org,(887)300-9229x77616,Crawfordtown,2020-03-08,False,Mexican,29,1.1467293120061202
+11953711-9317-4e36-b22e-af9a0ad86bc0,William Mendoza,whiteallen@example.net,001-630-249-8742x66815,North Sandyfort,2024-12-22,False,Mexican,94,4.007122077360679
+ef8011f9-a7a0-43bd-8475-9cb619f2b5c9,Richard Gentry,pwest@example.net,344.217.6974x085,Arnoldberg,2024-02-03,True,French,13,2.816254557275085
+93ac1459-efd1-4103-848c-840db67c72cb,Tammy Gutierrez,joshuareed@example.org,001-919-460-1217,West Kendra,2024-10-07,False,French,26,2.7972425666426224
+1f92ba32-985f-47df-b120-672256b7b40f,Alexis Sherman,sheri43@example.com,(241)992-3706,South Laura,2021-04-19,False,Italian,92,4.407225676917415
+f6a40fc8-cd3c-4f01-af49-2dab10b52e8e,Tiffany Wise,keith88@example.net,(229)878-3956x365,Ashleyview,2025-01-25,True,American,99,1.7892970225110552
+5d1959d2-9fc1-4323-89e4-5e7bacc2e9d1,Tracy Ibarra,frank93@example.net,001-470-706-2979x2583,Port Zacharyside,2021-05-05,True,French,72,3.2544472660850063
+5db3bb8f-6b18-4a4a-8019-3b61a196537b,Rebekah Roberts,erikamartin@example.org,(990)657-2615x883,Hernandezmouth,2022-12-02,False,Italian,84,3.576832377964055
+102570db-c413-47c1-870b-eddd09890fbc,Isaac Ross,jeffery20@example.com,001-604-637-4119x092,Owensfurt,2021-10-08,False,American,7,4.2860351825837295
+97c919a6-9d0f-44b1-8919-ef2e5458ec94,Aaron Davis,robersonbrian@example.com,(356)533-7254,New Debra,2024-06-02,False,French,40,3.122744450800868
+b75adf8b-be9d-42c5-8e19-d9cbf8ca4c4d,Justin Moore,abigail29@example.org,(407)623-5655x86356,Gabrielfurt,2023-12-30,False,Chinese,22,3.087387042069517
+5ab3dba9-6e6f-426c-85af-d575a381d1db,David Howard,alexanderricardo@example.org,541-330-5914x041,Lake Cherylstad,2023-07-05,False,American,1,3.8896153947266012
+c91788b4-3835-4a0c-bc44-d107eddfe689,Connor Costa,theresabeltran@example.org,+1-711-636-1461x9343,Rodriguezland,2024-02-03,False,Chinese,18,2.7398273827935387
+1f5604a9-1e62-45a3-a09d-6d9a448f81f5,Melanie Valentine,hharris@example.net,3672708178,North Samuel,2021-07-19,False,Chinese,41,2.384985809310048
+a47e349e-5418-4377-aec0-d5db7dbec68b,Gary Davis,hollycarlson@example.com,967-839-5651,Lake Helen,2021-09-16,True,Chinese,2,2.579377715772174
+d0531915-63a3-48c5-a974-cf70672a8426,Richard Savage,hbennett@example.net,6274561795,Sheristad,2020-11-08,False,Indian,4,3.7135729232457226
+6ec16d95-290c-46af-89a7-65ed88dbd6fe,Jesus Henson,kyleyoung@example.net,+1-469-785-6828x36727,Zimmermanport,2023-05-23,True,French,48,3.3248084879083732
+b5ca9224-fd9b-4b89-bdbe-37adb5365af4,Steven Ellis,daviddawson@example.com,001-391-749-1009x802,New Yolanda,2020-09-16,True,Mexican,21,2.7799028002208357
+7e85d685-cb07-49a6-990a-eaa769e157fc,Brittany Howard,sanchezfrank@example.com,(856)456-5350,Marybury,2020-05-24,True,Chinese,9,3.4006023596427304
+4cde3837-627e-4297-bd62-811539bb8d61,Tina Kent,lewislance@example.com,+1-224-325-3464,New Victoria,2022-01-28,False,Indian,79,4.080507230400791
+57354cf2-4744-4830-9104-86fbfed66d21,Michael Murphy,imaxwell@example.net,+1-348-864-7304,Lake Christinaport,2020-12-29,False,Indian,12,3.51520500560266
+2e781137-4746-4647-a164-808fed195b89,Lindsey Ferguson,knightjohn@example.com,(211)563-5192x53090,Hendricksstad,2023-12-21,False,French,5,2.9254318996841007
+29293e36-b07f-48c0-9d9f-5c5858c7a880,Kelli Smith,espinozamark@example.net,461.907.1483x340,Mooremouth,2023-04-14,True,Indian,39,3.3465166263024777
+7aadbec0-9f73-42a1-94c9-f72dbe322d5a,Michael Pratt,johnsonkenneth@example.org,001-324-282-9845x3605,Lake Lori,2021-08-13,True,Chinese,5,1.7726269855079457
+83417421-b0ef-49f9-8aa1-6053e4f13893,Frank Pollard Jr.,serranomelissa@example.net,690.906.6585,East Carl,2022-01-11,False,French,39,2.1065885558318924
+b5c25573-4023-4ac1-a753-efe95918b5a3,Johnny Logan,jack51@example.net,+1-800-532-6919x658,South Mary,2023-05-19,True,French,37,2.463874347820598
+1797183e-b755-4fa8-8411-4e9c2fd9ec4b,Brenda Tapia,michael78@example.net,+1-208-385-2780x97426,Sanchezburgh,2022-12-16,True,Mexican,72,1.2248622755233574
+8f988d1c-909b-41a4-a636-82e8be35b281,Benjamin Haynes,gbrooks@example.com,(517)686-5163,New Davidport,2020-03-19,True,Italian,95,4.754427396154359
+df179a5e-4e90-4484-8bc5-9563d0d9c36a,Matthew Torres,millsmaria@example.org,001-217-379-6361,Lake Emma,2021-09-13,True,French,21,1.0591912652142121
+52fff5b1-b362-4702-b135-74f2a42e5c4b,Darrell Higgins,sarah87@example.org,(266)428-3312,Stephenberg,2022-06-09,False,Italian,37,4.161114621111784
+1dde6c2f-60e7-4c07-a609-a93d7baa2a28,Deborah Lowe,nparker@example.net,306.212.7402x47338,North Bryanberg,2021-01-25,True,French,100,1.558382471000134
+6db8a649-b4f2-4bf5-8024-a6012b94369d,Christopher Gibson,fharris@example.com,(272)466-6615x06124,Joefort,2022-04-25,False,Indian,64,3.7638222427870835
+3af44780-fe12-4b94-be79-ffecca9d7be3,Albert Frazier,maddenjohn@example.org,698.253.3023x31161,Sanderschester,2024-12-23,False,Italian,70,1.64610878388909
+c4e795e9-be91-4c14-ab38-fe74471448a2,Curtis Bradshaw,jmartin@example.com,+1-960-302-2364,Taraland,2024-05-29,False,Italian,34,2.8397011174863223
+c152199e-659a-4732-9bad-bec7a535e037,Brian Miller,tvelazquez@example.com,+1-230-758-0623,Williamsbury,2021-01-13,False,French,60,4.084170444878172
+99b6dc11-129f-486e-ba87-eec197cade6f,John Stewart,qsimmons@example.com,+1-439-521-9063x83530,Padillafurt,2021-06-15,False,Indian,72,3.059370675164299
+9f20f719-4896-4c22-8946-af4e5fc8db92,Andrea Nunez,walkerrussell@example.org,932-359-3638,Port Deanna,2022-08-30,True,Italian,61,3.61078548690207
+c92bfc97-e10b-4975-aa44-710b47f1c0ac,Robert Young,alexandrapierce@example.com,289.428.7617,West Russell,2020-09-18,True,French,88,2.466251418031576
+2846f075-7c5e-4550-b533-e98346f3ca5c,Sara Calhoun,jesparza@example.org,+1-873-456-3085x56193,South Ashley,2024-04-23,False,Indian,69,3.233958151546517
+e87e2b33-b160-4db3-9b65-19ff0d16057b,Dwayne Garcia,ocurry@example.net,001-888-966-7672,Montesmouth,2022-02-15,True,French,78,3.3597879561343453
+c1e783c1-68f1-41c2-9a3d-9bba75acd5c5,Kelly Thompson,nancycampbell@example.net,001-246-464-6813x5408,Brownburgh,2021-05-09,True,Indian,84,1.9269152200546382
+5af61d3b-41d5-417f-8cbd-f8e609c4f958,Kristin Ramirez,zmurray@example.net,237.820.2775x162,Lake Heidifurt,2024-08-19,True,Italian,100,2.9630324100996144
+a0a466f9-13a6-4d3b-bcfd-8038ffb6b2e8,Anne Park,sking@example.com,(378)554-3783x935,North Leslie,2024-01-20,False,Italian,36,3.3458332857666875
+79cad04d-80ce-435b-9522-f50024271d07,Roberta Mcmillan,thomassamantha@example.com,360-297-1738x787,West Steven,2023-09-11,False,French,96,4.470227373287267
+4a5ab82d-2f55-4951-a535-0c2de8d86dce,Rachel Brown MD,joshua63@example.net,(949)482-3749,North Johntown,2024-08-23,True,Chinese,14,3.6340503006145988
+2d65ee41-d9aa-46ea-831c-e235b129b5bf,Kathleen Anderson,oclark@example.com,478.445.1696x9517,South Christopherfurt,2023-03-17,False,French,81,3.114149549987428
+91166521-2a42-4000-a5ee-67af68a061ee,Jennifer Patel,ylong@example.org,+1-447-756-7991x1993,Lake Daleview,2024-04-28,True,Indian,65,4.566468498469613
+b4f3fa30-ae1e-4966-8874-31bf1a2df569,Jenna Garcia,nathan40@example.com,001-766-337-6548x046,Jocelynland,2021-11-24,False,Chinese,14,1.0423803784951073
+889f2ecf-905c-4fad-9407-3b7b07922bfc,Daniel Elliott,carterpamela@example.org,001-725-936-7645x32517,North Briannaburgh,2024-12-29,False,Italian,29,4.381566228668962
+15b3be41-63ba-418f-8c39-9d3599855e4c,Jaclyn Keller,jonathanwallace@example.net,5045665093,Smithton,2023-01-05,True,Mexican,62,1.9859247624976137
+783a7a1e-cbee-4252-ab39-47e2253b324b,Margaret Rios,devans@example.org,(655)249-4382,North Brandonside,2024-08-27,True,Indian,55,4.860018943403134
+1b0d0c11-7967-4bed-8859-3542f9db0b87,Michael Delacruz,goodmanclaire@example.net,397.887.0113x92369,Freemanmouth,2021-03-08,False,Italian,42,2.9275083587554613
+f0874953-b631-4f32-bd81-0a084b4749fb,Mary Bryan,reginalopez@example.com,924.782.0831,Phyllisside,2022-10-09,True,Mexican,72,1.118756842400268
+ef3cb675-8bbd-4396-9e62-1666228c1bf3,Adam Smith,susan98@example.net,6187911699,Seanfurt,2020-05-08,False,Italian,13,1.7720371712086576
+777fedd0-f55a-4063-adf2-0e09c19fcad4,James Diaz,wilsonadrienne@example.org,360-477-9263x9036,Micheleburgh,2023-05-03,True,American,63,4.845068015088434
+e44a4b76-0079-438c-aa6b-64ea76c44cee,Spencer Garcia,cynthiacarr@example.org,831.748.1613,Torresfort,2022-03-25,False,Mexican,4,3.1228183962072174
+a2f33859-5454-4f31-b62e-d29f70288793,Stephen Hanson,bbaker@example.com,+1-381-851-9217x5689,Deanview,2023-01-29,False,Mexican,48,2.993215016215103
+abfc9725-1ba3-4b24-bf0b-2fe551bbf05f,Jennifer Salas,pnavarro@example.org,782.943.1084,North Heather,2022-01-30,True,Chinese,9,4.364943057937905
+22affb86-5dda-4383-8d71-bdc73ac0d0a4,Jason Carlson,balexander@example.net,(403)204-3695x408,Orrmouth,2024-08-05,False,American,92,1.5491304289505727
+9d63780e-3cc9-4aa4-a961-97c058bc565b,Mr. Scott Jennings MD,jenkinsmckenzie@example.org,+1-538-344-7989,New Raymondchester,2023-04-18,False,American,85,1.6641007279265634
+359a103a-f2de-4a7a-9cc5-72f2e240a6ac,Bethany Phillips,jeremymacdonald@example.org,961.630.8863x20937,South Jermaine,2022-03-03,True,American,48,2.5408676633409515
+6ffb5e13-8fd3-452d-bf06-bc5c7ebe4606,Jessica Phillips,hamiltonjoanna@example.net,256-219-7555x88657,South Crystal,2020-02-17,True,American,82,2.6420472640658494
+cd7c37d3-f8a0-4589-b89c-c500ac8ca0b3,Eric Proctor,gary05@example.net,500-300-3194x98332,West Joseph,2024-01-04,True,Mexican,1,4.458496399952519
+09aff21c-3eee-4dbe-bd3a-4f556b1c41c7,John Little,scott61@example.com,001-719-291-8878x8159,Derekburgh,2021-10-28,True,Mexican,25,4.485095030695716
+06f1879a-e136-4a13-a116-b59baff95f29,Shelley Hardy,colinturner@example.net,(809)748-2095,Crossfort,2020-07-18,False,Italian,16,4.715615421956203
+7e088d27-f723-4a4c-be36-b930b1f5b720,Adam Weaver,zcole@example.org,520.843.8030x96840,Montesland,2020-02-21,True,Italian,65,2.055860891612392
+eaa27867-baf0-4193-8601-553cf3d93606,Dr. Clinton Jones,brookecurtis@example.org,001-237-207-2485,Randallchester,2024-03-16,True,French,22,3.956166588774706
+f7d848f1-509e-4530-b9e8-e0dab3e0ff91,Jason Garcia,victoriawilliams@example.net,740-614-5139,Colemanville,2021-10-29,False,Italian,10,2.2048495543690225
+b5046e0e-29c1-451a-9a13-27b881846d8e,Thomas Black,jessicaberry@example.net,610-441-1093,South Martinshire,2025-01-28,True,American,37,3.9186563829123284
+1ace85a7-e0a8-402e-873f-617ddb1a742b,Beth Gilbert,shannonrobles@example.net,001-471-242-6893x5052,North Sarah,2023-01-01,False,Indian,13,3.5646635643016316
+d5689aec-5338-4704-ab9a-208c8dd44c39,James Holden,johnsongregory@example.com,355.335.8765x833,Nathanfort,2022-12-19,True,Indian,88,4.885296676004418
+7a7df9f9-4ad6-4d6a-b376-8078f47cad25,Elizabeth Ryan,zgreen@example.org,+1-636-733-1902x9807,Richardsonton,2020-08-14,False,French,64,2.575161926611205
+56fd87a5-7103-4596-a6ff-b4c5cb9a9cc2,Michelle Kelly,debbieho@example.org,+1-799-366-8109x528,West Saraland,2023-01-23,False,Mexican,9,4.373988637101876
+3ec650e1-590f-4958-9082-74b303e0d29d,Angela Jackson,zroach@example.net,+1-328-330-5436x9343,Port Andreaberg,2022-06-08,True,Indian,39,1.4778049884260005
+84dd55fa-fef0-4e44-aaef-24db58ee7445,Tara Luna,nmaynard@example.org,(736)944-1016,Carrietown,2021-05-29,True,Chinese,40,2.4530352176110277
+b2d4fa83-bc72-4f55-8ff0-909c486b4d4c,Sandra Jackson,tracy77@example.org,896.447.0658x980,Josephport,2021-06-13,True,Indian,78,3.0648543335386997
+6b697a4b-0610-4459-87cd-805dbe413503,Kathryn Reed,chelsea94@example.net,635.209.5813x3509,North Dominique,2021-12-27,True,Mexican,11,2.8777087988234467
+8d44717f-8a01-4405-9d09-cb6134e9ef66,Amanda Reed,andreaowens@example.com,001-239-831-4220x4295,Martinmouth,2020-07-21,False,American,54,2.0439237632487086
+707c2d5d-cb2c-470e-8148-5dfcdf222f5a,Joel Warren,hsmith@example.net,524.665.2686x66430,East Joshuaview,2024-04-21,True,Mexican,100,3.0079669422575734
+a7394a4b-badd-4fe3-8757-d8a6e6bb8ddd,Michelle Mejia,ejones@example.org,001-620-933-4388x3724,South Erik,2022-12-03,False,Chinese,56,3.962973117555907
+08793c5f-4189-4dfa-987c-54db1ac2cb56,Robert Castro,hayestracy@example.com,293-649-6758,Lake Mark,2022-05-25,True,Mexican,80,2.922999657502671
+b797db70-15fb-4bcc-8459-1951adcae256,Rhonda Moran,istrickland@example.com,522.926.1347x446,West Robert,2025-01-18,True,Chinese,28,2.262926209739233
+e24cfe9e-4c21-4bf4-b977-cc5ae6e67c13,Lori Davila,jonathangarrett@example.net,(288)218-3434,Rebeccaville,2021-04-06,False,Indian,77,3.6775164503134947
+af5c0e64-7c34-4a88-beaf-45d6b8206670,Robert Ryan,ramoskimberly@example.net,9759747802,North Theresa,2020-11-03,True,Italian,5,3.5102221470896
+1b50ba96-1818-4b5b-bde3-34cd119d7c2e,Jennifer Hudson,luis20@example.net,456-780-6718x678,Port Annette,2021-06-30,False,Indian,85,1.8238602093021252
+4b117058-b8ad-4ceb-8fe8-687205f6b4db,Kenneth Richardson,nancy57@example.org,001-749-310-2358,Ashleyside,2022-02-23,False,Italian,3,3.125076502496432
+24711302-10d9-4d05-a278-3f5d25d53914,Michael Gallagher,karina55@example.com,588-974-3735x1417,New Matthew,2021-06-14,True,Chinese,92,2.094037805982019
+75cd9494-45d2-482f-8d7d-fa6a2fdd9ded,Melanie Lee,ebonilla@example.com,214-907-5279x9835,Davishaven,2020-11-05,False,Italian,99,4.289238326973969
+1b4453d1-43da-46f7-bd50-4460a4ab761a,Robert Perry,toddsmith@example.net,928.486.5206x14257,North Stephen,2022-01-13,False,Indian,69,3.2378158605829896
+ac9151e8-744f-4455-939c-1094a1135b14,Jessica Russell,gerald45@example.net,001-276-953-7251x42874,North Christopher,2024-04-25,True,Italian,85,1.4983166769727978
+f94430d6-1372-43ac-beb1-c294af912c5c,Sydney Price,egordon@example.org,001-770-954-7177x14744,Tylerstad,2024-07-23,False,American,87,3.232339698514524
+fbb6e0e2-3869-4eba-9c00-5d362be13538,Terry Patterson,jason15@example.net,845-809-5084,North Zachary,2025-01-27,False,Italian,73,4.989953662249112
+ef9a009b-54b1-4686-b1ad-ec744f51177d,Lisa Jackson,charleneporter@example.net,001-385-649-2690,South Deannatown,2022-04-07,True,Indian,55,4.357293909524109
+2bf6d9e4-baaf-4c8a-9b29-18276c62abdd,Dustin Singleton,ggarcia@example.com,+1-776-277-9999x40965,New Marie,2021-06-13,False,Mexican,86,4.008850714251575
+d9bc7e43-c9a0-4b46-87ae-147a4a995e2d,Gregory Benton,knoxlisa@example.org,508-902-0334x78634,Simmonston,2023-11-29,True,French,72,4.111587521270603
+8992246b-4733-4fad-939d-2caa227b30f6,Kerri Hughes,mkennedy@example.org,001-693-531-9067,Longshire,2023-12-05,True,French,98,1.1000876026161692
+8a49df42-c210-425d-ba81-031ec3dc1903,Erica Fischer,tjohnson@example.com,812.303.1851,East Morganborough,2024-03-26,False,Mexican,98,4.7176092715515185
+f7447f5d-962a-44a8-bf0e-6a7a8a96c028,Gina Hall,ricejames@example.net,(477)531-9790x125,Sarahaven,2021-08-31,True,Mexican,63,2.5527361726173523
+364879f8-1a7e-402c-94e2-9be1784e9bb4,Erin Ward,kristin02@example.com,658-854-0239,Heatherville,2022-08-19,True,Chinese,47,4.8529293271413865
+56ee3b5f-81ee-47d9-af67-680b1684e673,Brandon Hurley,reillykristen@example.org,(419)590-8214x458,Craigmouth,2021-05-26,False,Italian,2,1.40997664130319
+185b69eb-4cb4-4b7f-9c33-ed5c4a4495b4,Eric Smith,belltara@example.net,(265)893-0097x882,Kyleburgh,2025-01-07,True,Chinese,29,2.311439223604436
+4f1337a3-d966-4408-b43a-f832574b0369,William Sullivan,alexander70@example.net,921.774.3713,Gloriachester,2021-07-25,False,Italian,58,3.9246521493836943
+521b9a29-2946-4d81-84ee-e1131378ba30,Steve Evans,schmidtrebecca@example.com,+1-241-582-5139x546,South Christopher,2024-03-03,True,American,82,2.605126956051029
+874d1286-e7ac-4329-b7a3-089d5d1e5d0f,Michael Chapman,stephaniebrennan@example.net,3164969530,East Josestad,2020-01-01,True,Indian,90,2.64856617613684
+e1a11ac9-b073-456f-8e70-a97fa4e89ad6,David Hall,matthew52@example.net,(938)431-7987x25678,Wardburgh,2021-03-04,True,Chinese,52,4.649007891408229
+5852ad8c-fcbb-4182-bd84-fb5cd192fdbd,Stephanie Simpson,brian11@example.org,(925)556-2960x71515,Lake Jeremiahmouth,2021-01-07,True,Chinese,56,3.1304687094648145
+dbb6f882-8ebc-49dc-a17f-80c73909f0af,Benjamin Long,fturner@example.com,982-776-6595x860,Blackburnstad,2022-02-01,False,French,86,3.16719644978841
+b3f34b52-6677-45d9-bfe4-28f5048f0fef,April Porter,emilybradford@example.org,227-862-9392x47789,Fishermouth,2024-11-24,True,French,83,3.284850838345195
+7753c0b8-4c5f-4b09-a2c2-947685285b1c,Michelle Mcdonald,taylor67@example.net,984.779.3056,Francomouth,2020-03-30,True,American,24,3.6031939702675557
+299e73c2-8747-4f49-8da8-e359b14fb7c3,Jamie Holmes,agreene@example.com,885.443.1938x086,North Brian,2022-07-12,True,French,95,1.5740259753890107
+36403adc-610d-4f52-988c-f28fd5cde296,Daniel Price,hoconnell@example.org,+1-638-943-8789x76560,New April,2023-06-25,False,Indian,87,1.6323181704508265
+2576bfe8-5019-4e64-b31b-85b40e86b250,Carolyn Green,amberclark@example.com,001-423-513-8769x6682,East Kaylastad,2021-06-25,True,Indian,59,2.007651934509816
+9ac9f9a2-084b-40f6-915b-7cd562d3b8a2,Stacey Silva,btaylor@example.net,001-667-640-0034,Robertschester,2021-04-04,False,Indian,28,3.7296711099710333
+65b16e03-191e-453e-bbe7-b0054a9d646d,Melissa Townsend,stevencruz@example.org,865-813-6678,West Derrick,2024-11-11,True,French,24,1.7401250387418217
+c5d4244e-b799-45c9-aa56-4979d1024410,Stephanie Davis,kramirez@example.net,(547)912-8303x33716,Allenhaven,2021-03-25,True,Italian,76,1.0861179512530401
+a8359c68-be6e-4331-9ede-118085c5a2d1,Sergio Morris,kimberly59@example.org,2554625036,Michaelland,2020-10-04,False,French,39,1.6802553871274544
+1e49492a-3a71-4cd7-aecb-ba10993155ba,Brenda Hernandez,wlowe@example.net,001-200-415-9728x3392,West Kyle,2023-04-06,False,Italian,24,1.4709729469173376
+bf08fea0-ba49-48a6-a46b-4415219d0bbb,Kristy Green,ilarson@example.com,+1-486-916-7617x776,East Amanda,2021-07-13,True,Chinese,53,1.7456439539536999
+9824f89a-c655-4446-905d-1e7144e44246,Joel Brown,daniel99@example.com,611-372-3293x6847,Port Pamelastad,2024-03-27,True,Mexican,16,3.078628378106535
+66c592ae-3d0b-45b5-b560-7daa7875e0b8,Shannon Chavez,austin91@example.org,702.888.2950x586,Millerfurt,2022-12-26,False,American,83,3.7161016793511727
+135e9f47-bbcc-4ec9-ba94-219ff6f01dfd,Robert Reid,anthonyjames@example.net,8013272734,West Bretttown,2020-06-01,False,Chinese,4,2.2634919299771674
+0012b01d-1e4b-4489-a0bd-1371a9418770,Denise Ryan,clairemorales@example.com,001-641-296-8964,West Linda,2022-07-19,False,American,88,4.204437248087871
+80a6f6c3-3719-4fed-9792-aa833266db3d,Kristen Smith,billylopez@example.com,+1-867-811-6785,Port Lonnieburgh,2023-03-17,False,Mexican,85,3.5314196611501276
+8ce1facb-e313-4f6c-af09-e479bd265fbf,Matthew Stein,dcastillo@example.com,001-754-669-2267x1089,Tiffanytown,2023-02-28,True,Mexican,60,4.492947901662685
+b73223d1-7d6b-46c0-8fa2-a4e4649d55dd,Fred Nielsen,erikadams@example.net,(867)542-7721x48338,Dennisport,2020-05-06,False,French,1,2.5184964921433397
+c7c4c219-dfd8-47f9-84e5-21e1e5647135,Sonya Perkins,vegadiana@example.org,928-714-5362x99955,New Margaretchester,2024-04-08,True,French,66,3.669775490180563
+acf9ac89-4251-43ed-9662-739e5b2ce588,Nicholas Medina,william57@example.com,430.633.3112x665,Mendeztown,2024-02-11,False,Italian,93,1.4848433266540475
+78ac5879-bf30-4a17-9237-eb9b10bc4465,Christie Edwards,santiagoteresa@example.com,(895)450-6224,Hurleyhaven,2022-11-20,True,Indian,27,2.7994092292571184
+695aafa2-ed29-4f34-8dfc-7ed2e38ec665,Jo Sanders,jeffreychen@example.com,+1-301-866-3499x494,Howardside,2022-10-25,True,French,57,1.394142184345878
+c704b664-c4f8-4c89-ab67-a70a8c1e06db,Karen Pitts,donaldlindsey@example.com,(273)389-8352x6242,Ramoshaven,2025-01-03,False,French,83,2.6556220347712767
+59d739dd-c631-4863-b0dd-e0a65aa498db,Andrew Walsh,ashleyperez@example.net,(303)861-4693,Amandaburgh,2024-03-06,False,Chinese,1,1.6833422390554347
+2bf0db41-cd3f-4cbb-a7b5-ca9a63f49362,Briana Ashley,aaronmontoya@example.com,545-352-6698,Port Victoria,2020-02-07,False,Indian,41,4.0537262841125195
+152fb147-5b23-424a-8e15-9a3f15895b8e,Benjamin Mendoza,kevin26@example.com,590-577-0951,Charlesshire,2023-03-31,True,Mexican,41,1.7759913599783648
+8e4dcb00-4b41-477c-90bb-83b4cdfe0921,Jay Booth,shughes@example.org,001-632-798-8802x70593,New Deborahtown,2021-05-19,False,Indian,54,2.8765608395804416
+dbd9c758-320c-492d-bc4f-7491410243f8,Stacey Greene,isawyer@example.com,001-603-209-2948x5900,Lake Michaelton,2021-01-01,False,Chinese,75,1.4706807334460685
+c308a1a0-3f15-48c6-9924-3c9f172a8284,Wendy Frederick,marywilliams@example.org,+1-208-516-0563x5090,New Jessica,2024-06-29,True,French,71,1.4254461167980237
+01b842cd-6e53-4098-821e-8d0494b9bc6d,Alison Roberts,ygriffin@example.net,405.949.7412x358,Port Connie,2024-05-23,True,French,5,4.45433299654484
+149d7f4e-8f10-4bbf-b857-2026934639a9,Dr. Austin Cruz,youngbrianna@example.net,001-330-892-4190x349,Olsenside,2022-06-10,False,Indian,29,2.1243152101324276
+404b8ceb-f275-4651-950d-1436fd86d6b3,Melvin Green,wesley48@example.net,454-510-0235,New Gregory,2024-05-17,False,Mexican,26,2.9375611881244446
+9656c8cc-1e18-4411-98b8-4ff4879a3ec8,Robert Jones,morsemelinda@example.org,+1-944-656-1467x749,Katiehaven,2021-10-31,False,French,79,3.2662776772198336
+6fc5f7ae-c3fb-4a8a-a3c3-27e91e100cf5,Breanna Thompson,zburke@example.org,+1-326-384-8869,East Jeffrey,2023-11-16,False,Italian,37,2.54429450245597
+511717b9-b844-4825-a716-855c67abc999,Jessica Bartlett,wangcrystal@example.net,406-767-3755,Port William,2021-05-16,True,Mexican,21,3.9554550518240936
+e9773cfa-d513-4d7d-8988-995729fe4b4c,Eddie Cunningham,salazarmichael@example.org,930.979.5817x4210,Baileyland,2020-11-26,True,Italian,18,3.6240454448321535
+52bc679a-a362-4f5f-ab60-e7122b87d385,Douglas Wallace,stephen86@example.net,490.991.3967x11777,Stephanieton,2022-05-24,False,Chinese,93,2.085976108916796
+488e4ddb-a1d3-4c95-846c-decc8a526c2d,Veronica White,wendywhitaker@example.org,916.942.1142,Donaldsonton,2023-06-12,True,Chinese,2,2.0561827219480837
+b1658cb4-8f60-4a33-8dee-7049140f6ed5,Benjamin Travis,mendozasharon@example.org,(976)718-8417x0171,Benjaminchester,2023-11-10,True,Mexican,24,1.4996788532963463
+62a71772-4c2b-4022-8835-79ca6495a996,Matthew Crawford,barronamber@example.org,2878439092,Port Johnmouth,2020-03-14,True,Indian,32,1.7729323245914874
+02957883-a879-49e2-a6a4-c178cd541cf0,Julian Walton,virginiamarsh@example.com,001-579-592-1972x7540,East Kevinshire,2020-05-19,False,Chinese,7,4.280851989438438
+496ff1d6-b47a-4d85-9d23-b81031ffadd6,Diane Price,ashley35@example.org,+1-257-691-0170x5953,South Corey,2020-10-30,True,Italian,2,3.0928613372982334
+44af0c25-269b-4716-8b87-d76b1ad973b1,Chloe Santos,hernandezkatherine@example.org,312.604.5545x875,Johnmouth,2023-04-12,False,Mexican,29,4.992679169931926
+c627758a-837d-45c1-9dd3-6bc5ac5dca01,Rose Hines,ritterronald@example.net,(936)664-5562x40180,Washingtonmouth,2022-12-12,False,French,82,2.72357328472851
+09263d84-0585-495f-a3de-71a4c0ebbcf3,Lisa Johnson,lorettahodges@example.net,9459305868,Lake Kimberlytown,2023-03-18,True,Italian,28,2.5223015234383785
+be2226a1-d5fb-424c-855b-b8f832daff24,Elizabeth Webb,powersheidi@example.net,001-415-423-2443x33625,South Dorothy,2020-07-24,False,Indian,53,3.7538373736175643
+a1eb5dc6-6faf-4c36-b81b-2e85c364f6e4,Chad Lin,rgraham@example.org,996.798.5747x04014,South Jameshaven,2022-12-02,False,French,56,2.584235041598108
+5ae18701-e129-4837-b986-2825dd1ef2cd,Cheryl Smith,bethle@example.net,001-976-879-6392x33418,Port Ricardofort,2023-05-29,True,Mexican,37,3.1650632266186527
+26cb3412-b0d1-4af9-97e6-6bd48a44a94b,Nathan Romero,lisa92@example.com,787-893-0735x089,Rowemouth,2022-07-14,True,Chinese,77,4.46663790613327
+7e5dc390-564b-4988-8ca0-6f3c29519b80,Michele Lane,fowlerdalton@example.net,+1-719-946-8879x635,New Christina,2023-08-04,True,Mexican,61,3.069068115709503
+dfaa6488-187f-4a66-ae84-83b407787a10,Kenneth Evans,fordgregory@example.org,860-773-5991,Andrewstad,2024-04-09,False,Italian,14,4.24740620298981
+817528b2-736a-4a09-9460-b9ff8e33173a,Lawrence Torres,lisa62@example.com,7226477649,Thomasborough,2020-08-03,False,French,22,3.6716202129715874
+e608c225-f051-4c3b-81eb-91565b64d9eb,Adrian Hays,gmorrow@example.org,+1-236-231-1379x771,South Danielleborough,2022-09-10,False,French,58,2.489245674074475
+7e9eb87a-2be1-45a6-b962-2f293170ca1a,Calvin Allen,michael79@example.org,420.727.0422,Smithmouth,2022-03-11,False,Italian,2,1.0055895258014074
+ab639795-a28a-4998-bf11-cd1b994cd9d7,Billy Cruz,beth66@example.org,428-557-6742x8836,Mccartyland,2023-09-18,True,French,34,2.763508352880749
+ddba0d6f-b6af-486a-b6b5-1949c6ffc9cb,Jonathan Campbell,gregorycynthia@example.com,846.760.1100x750,Port Heatherchester,2020-03-04,False,Indian,14,1.1002183400641412
+969c0338-359b-4472-9be3-d529c00b100c,Cynthia Clark,carrie01@example.net,604-669-4084x1663,North Whitneyton,2023-11-03,False,French,82,2.927429452520471
+e6c98aa6-cda7-4f38-85c7-2d56801fb384,Kevin Jackson,zsims@example.com,001-394-968-5859x8251,Brockview,2021-07-28,False,French,45,1.4881550806910018
+81607caa-0396-413e-858e-36722d744dac,Albert Woods,olee@example.org,860-632-4484x50457,Port Ryan,2020-10-24,False,Indian,77,3.738979520280095
+f286fc39-75dc-420c-a62e-dfd7f2eaaba2,Kaylee Castillo,joseph06@example.org,3358410509,North Lisa,2023-07-07,False,Italian,75,2.0218488616792385
+fb73ca53-d91f-4d2c-b298-902c4453c54b,Daniel Simmons,michaelberry@example.com,831.284.5882,Annaville,2021-01-14,True,American,100,2.7114991458189506
+267e89f5-74da-44bc-94f1-c1718e26f71f,Peter Parker,lawrencejessica@example.com,(233)529-5154,New Jennifer,2023-10-03,True,Mexican,37,1.3169846894069477
+4ece4bca-f4df-4eca-8f6d-c4a4618f715c,Jessica Brown MD,blackashley@example.com,+1-345-362-1854x52599,Robertport,2023-04-05,False,Italian,78,3.4678537806710423
+d9a308fa-9557-47ba-a545-8b4ba04e2cb5,Colleen Oconnor,kathystuart@example.net,628.333.0654x140,East Anthonyburgh,2021-01-04,False,French,16,4.962849498198951
+43ae7468-9569-4e9e-b180-aea64df46f64,Brianna Patton,kristin75@example.net,591.945.5949x996,Port Amanda,2021-04-14,False,Mexican,66,3.536979690495596
+e37a6b0e-e25f-474f-95ca-5eaa1cd10e55,Debbie Brooks,averytimothy@example.net,364-300-9701,Steventon,2022-10-12,False,Indian,47,3.798151570427062
+0459a1fe-2a77-45db-8be6-696b648546f5,Shaun Vaughn,laramason@example.com,478-908-8710,Travisfurt,2022-05-30,True,Chinese,51,4.831809358247149
+6129ccda-8000-49c9-aa24-681b8eee980f,David Long,knightcarolyn@example.com,365.652.2133x56043,South Belinda,2021-10-24,True,Chinese,28,2.466444903666765
+63d1e879-f8ce-425c-aca4-2127f6688be1,Keith Johnston,patricia29@example.net,488.657.3731x49526,North Johnborough,2021-08-25,True,American,55,3.834881527198068
+c7313c44-e289-4be9-be8c-25f4a8e260db,Dylan Randall,marvin76@example.net,596.992.0396x4694,East Cynthiachester,2020-04-25,False,Chinese,2,1.9110587479913161
+f0f864b7-eea1-498b-9164-05d769ed6e9f,Hayden Graham Jr.,piercecandice@example.net,327.577.3403x7106,Lake Amandaburgh,2022-05-11,True,French,44,3.415242302872629
+3774be57-a1f5-4629-87b9-3b1b823a6474,Tina Green,darrenferguson@example.com,001-704-771-1140x18177,West Kevin,2024-06-19,False,American,19,4.359205963922814
+4a15ce08-8a3a-4815-bb2f-fb1e63ddf42a,Scott Chavez,michaeljenkins@example.net,829-414-5137,Port Joseph,2022-02-15,False,Italian,40,3.9805529419963097
+149b78d8-6725-4a17-9a98-bb6ebccce2cd,David Park,williamsamber@example.org,+1-417-219-5592,Morganfort,2020-05-11,True,Chinese,99,1.7382833052010849
+d629ce4e-4bb1-4c84-bbc5-1d8242e8f7c4,Anna Patterson,molly56@example.net,(754)382-5746,West Keith,2021-03-16,False,Italian,88,2.0574565067456416
+0b9910b1-7693-4d71-a8f7-579065af3c1c,Ann Burke,brendan45@example.org,499.970.6779x684,South Kellyberg,2020-06-13,False,American,97,2.960997336670786
+01a662ea-d29c-46f1-be72-26067d7e5011,Thomas Avila,donna66@example.com,001-651-828-3358x616,Dianaland,2023-05-21,False,American,91,3.653418249324297
+f41b8888-7f95-4714-aec8-0017ab4f251f,Nicole Pope,uking@example.net,551.342.0893,Birdmouth,2024-06-13,True,American,10,4.400748095264852
+008a8a21-49f9-4028-8776-4a89ca5ec5ed,Derrick Caldwell,tiffanycurtis@example.com,(912)836-1063x169,East Kenneth,2024-05-07,True,American,60,2.244547883591357
+c64f68f3-8581-4394-9d0e-1d1f81f3e675,Derek Allen,santiagoconnie@example.org,(783)449-3247,South Jasmineview,2024-09-02,False,American,63,4.63449823209214
+24cd647b-2760-43e5-8976-0ac9335bf351,Paul Warner,jjohnson@example.net,789-204-3618,Floreston,2020-06-23,False,Chinese,88,3.129000349763258
+b5797ba5-79d5-4786-86e1-f63355ecc54a,Sarah Hill,nrojas@example.com,362.576.9333x686,Smithhaven,2023-09-03,True,American,68,4.962827622920839
+2a802206-ad71-4536-a92f-ae27867ae6bb,Natasha Downs,banksvictor@example.net,4085597530,Stevenmouth,2024-10-19,False,French,64,1.6202102341369948
+68c4bc36-0c66-45d7-85bd-037cad895f6a,Veronica Hernandez,robert90@example.org,(666)903-8353x8668,Freemanchester,2024-01-15,True,American,69,4.138355822414094
+d130b4a8-ff3e-4d0c-b303-f79a593dba05,Cory Bell,kyle95@example.net,803-261-4819x974,Lake Jillside,2024-03-13,False,Indian,36,3.944135360780452
+1fc9d509-07e6-42fb-af67-a69721ab29dc,Michelle Turner,clarkmicheal@example.com,+1-316-681-0263,Port Marthafurt,2023-04-27,False,Mexican,27,2.57184384322071
+897b534c-4122-4c17-a0c4-1494cf007f02,Kyle Dennis,vincenthill@example.com,3537779528,South Charles,2021-09-27,True,Indian,59,1.5354347650185067
+ab9f7ec9-7af4-4b5a-863b-d5c25a7fefb3,Michael Jackson,eddierios@example.com,001-423-345-3503x146,Edwardborough,2022-09-14,True,French,51,3.4531217373471197
+886fae72-8b60-44d2-b942-5d5145a5166c,Connor Stevenson,collinsthomas@example.com,(237)393-0687x41333,Lake John,2023-10-24,True,Chinese,91,3.1739837012125096
+67839e1f-c849-4f00-b474-09891a2dddb7,Bradley Miller,maddenphillip@example.net,(555)275-9710x251,West Victoriamouth,2024-08-19,False,French,99,2.670996582209886
+4605ce0e-ebf9-4494-a726-267da26a51d7,Christina Kelly,dennisbrock@example.org,604-961-8247x35660,East Todd,2022-07-06,False,Italian,94,1.8080188963818555
+77ad697e-cae3-4d4e-a039-aa05406f3801,Matthew Sherman,jenniferwilliams@example.org,(668)659-2865,Patelfort,2020-05-25,True,American,80,2.2310321274466665
+75a549ff-8ccd-4adb-94e3-36ec252f5786,Terri Owen,gclark@example.com,750-999-4533,Clarkside,2022-01-08,False,Indian,35,4.733528170085385
+4efad4d6-e266-4391-82cc-306a28342ea2,Mallory Rivera,cwheeler@example.com,795-218-7254,Brownport,2020-04-27,False,American,93,3.79953121900775
+8ccff2c3-105a-4a48-b191-1d7e9a71d629,Jackson Villegas,skinnerrebecca@example.com,441-587-4425x62977,North Tammyburgh,2020-02-28,False,Indian,66,3.816704804039596
+f7a006cc-46d9-4afe-a084-e39c30050a5d,Amanda Hughes,cheryl69@example.com,(312)648-5179,Tracyshire,2024-04-27,True,American,52,1.779761682064274
+6d357502-6c5b-4cd1-9854-1b8e8f0144d2,Deborah Lewis,josephsmith@example.org,+1-892-460-4754x950,Lake Michael,2022-08-17,False,French,81,3.611460104134799
+60aacf26-273d-44e0-96d6-a5aa4d535832,Jacqueline Manning,douglaslevine@example.net,(463)578-8720x5474,Jenniferchester,2021-09-28,False,Italian,48,4.499142594312183
+e7bf57fe-7423-4700-936b-9d864913f023,Christopher Howard,william59@example.com,(398)634-8131x49129,Lake Kimberly,2021-06-24,False,American,41,1.3742943314852338
+13a68826-353e-47f8-8a01-78f1af32339f,Mariah Campbell,jcarlson@example.com,841-248-3234x172,West Jenniferside,2022-12-25,False,Italian,7,3.2697170046668824
+7fd9f6e6-839d-4970-b2f5-7447bddbef4e,Veronica Benjamin,dalexander@example.org,828-883-3331,Port Allisonstad,2023-02-06,False,American,52,1.1742167693089072
+6f6eb004-19a2-460c-8d27-2ff054d9ae0f,Angela Brown,christopherriggs@example.net,(438)876-1009x77553,East Karenside,2020-08-29,False,Mexican,29,1.2188827766190182
+954077dd-ad28-4749-9d16-c4f471d20f05,Lisa Gutierrez,tpace@example.org,+1-713-969-9136,Wardberg,2024-02-17,False,French,82,2.0325429773732595
+4179128a-b01d-42d3-a3ec-b7b4cadd2981,Susan Henderson,tmiller@example.org,001-479-772-6313x4739,Donaldfort,2021-09-08,False,Indian,86,4.153565586557132
+168014d0-baf7-49e6-aa81-05d4f47ff12d,Scott Mccormick,melinda40@example.com,8429119047,Kariborough,2024-12-12,False,American,70,3.055725613782201
+4ebff339-3bd3-41a6-a12e-c87bf822c465,Antonio Duncan,hernandezdana@example.org,(621)606-2588x66476,Roberthaven,2020-01-29,True,American,21,4.180729878997287
+7fd802df-87ac-4fb6-9fd4-2001b325ef1e,Jacqueline Barnes,zunigadonna@example.org,(643)963-5467,North Karen,2020-01-02,False,Mexican,43,3.3993213755227734
+2ab6fdc7-8b0c-4304-bfc6-f30edb680ccd,Joseph Burke,bakerpaul@example.org,333-657-9838x03657,Richardshire,2022-04-25,False,Mexican,89,3.888160426044428
+d9ce654b-2578-4c20-b448-b8f1be18f228,Alexander Reyes,tsweeney@example.org,268-839-1007x313,West Tiffany,2023-03-02,False,Chinese,53,3.4570126361459184
+c9dd9fa0-fca5-464c-81b9-c1764446750e,Michael Norris,kathrynskinner@example.com,001-607-913-3472x967,Melissaview,2021-05-10,True,Italian,99,4.715537863784752
+3b658255-6246-4dbb-99a9-19e755adb48f,Adrian Joseph,jared46@example.com,973-571-2073,New Justin,2020-09-13,True,Chinese,4,3.868119073118248
+6624a910-ca6b-447e-9e54-5e4740fe1410,Alicia Hernandez,jmiller@example.net,(516)689-0703x0200,South Elizabeth,2023-08-02,False,Italian,60,2.952547007909455
+7601a31f-5d45-4082-bb09-3c60ecd6ed86,Victoria Cain,shepherdjennifer@example.net,894-812-7576x05795,Robertchester,2024-08-28,True,Italian,21,3.939388119500492
+7e47838f-5335-4de5-945a-bd80a9ae4880,Henry Miller,jeremy70@example.org,(873)880-3594x95219,Byrdberg,2024-10-28,False,American,58,2.0732094216918857
+5f9e796a-d89d-4fdd-b9f1-3bbd502a2853,Melissa Perry,ashleyjones@example.org,557.524.1963,Kristineview,2022-04-10,True,Italian,36,3.0082514491238888
+6794a9be-8b06-4550-8688-e2124a14c105,Katie Jackson,audrey45@example.org,661-381-2919,Lake Shannon,2023-10-25,False,American,98,1.895156628231644
+97c07e1c-7098-476a-b433-503c1d8dfd5e,Jake Barrett,james24@example.net,618.441.5447x313,Port Ryan,2024-03-09,True,Italian,88,4.929314053700721
+e49aa9f5-f4fb-435b-a0b8-9d571b3dbddd,Robert White,fischerjason@example.net,639-958-2014x50919,Savageside,2021-05-02,True,Chinese,55,2.824238988782081
+80f27684-49f2-4403-b162-b0c8758351d9,Dylan Chavez,bellnathan@example.org,738.848.6288x1601,Brandymouth,2020-11-10,False,French,96,1.7211929159294996
+f2d44e72-18f8-418a-aa17-acf43be40202,Noah Best,waterskenneth@example.com,650.754.6741x71026,Brianchester,2020-06-30,False,Mexican,20,1.1636401670080683
+f990bf02-e9cd-4785-af80-82d844443c5b,John Ryan,bryanortiz@example.com,+1-958-506-1758x5578,Jennifershire,2022-07-12,True,Indian,39,4.123016542526086
+510d1fbb-e8d2-412b-93dc-ab03aeb680cc,Jennifer Carpenter,heather92@example.net,001-852-240-5469,Smithside,2021-04-15,False,Italian,2,1.852011363451315
+ca2f2daf-2ab8-4089-8953-57825f029bd3,Christopher Dixon,smithhaley@example.net,001-919-694-6939x39697,Smithville,2024-08-07,True,Indian,50,1.032533326080109
+36f45ec1-1006-411c-9d6a-4ef1a23c8b98,Janet Horne,cfernandez@example.net,+1-706-780-1890,Alexandramouth,2020-07-08,True,American,79,2.9111498556794615
+dc1089b5-be6f-48a7-9fd8-107b12e1dad9,Amy Lopez,npage@example.com,+1-531-683-7345x19065,West Vincentstad,2021-05-20,False,French,21,2.4551352966317683
+a0af844a-7b47-4ad2-bfa5-877c9b021052,Timothy Dunn,whiteheadneil@example.net,(822)651-7424x62424,Garyhaven,2024-04-23,True,Italian,35,1.0728659172007826
+511cf72d-bc8d-45c1-a035-0244b0fe6bd7,Amy Francis,teresaclark@example.com,910.386.1719x556,West Nicholas,2021-02-13,True,French,78,3.5890760232366636
+88b34a67-b3ec-4cbf-8aa0-c8901dde8c73,Garrett Franklin,vanessalong@example.com,333-519-4438x68389,New Ann,2022-03-21,True,American,32,4.902712791169232
+6846b393-0474-4a5b-89df-72d04e1df5aa,Michael Evans,kenneth79@example.com,580.776.5286,Elizabethberg,2024-10-22,True,Chinese,12,3.903484675884256
+770d4d2c-e6bf-46a1-b494-1852a3dd5ae4,Blake Miller,kristi80@example.net,+1-661-759-2282,New Anthony,2022-09-17,True,Indian,97,3.411881418121957
+f965a5ae-628c-4e86-95ac-42dea2eb9694,Joshua Baker,christophershannon@example.net,+1-549-938-6414x8927,Valdezview,2022-02-13,True,Chinese,18,3.1545714618286613
+d0fc7533-fe75-4cc2-b0c2-7d23746260be,Gina Austin,cartervictoria@example.org,915.505.5471,Lake Henry,2023-01-06,True,Chinese,69,2.0893353385969196
+7347f2f0-de82-4332-a059-1718be2e3ec4,Matthew Lara,ugonzalez@example.net,749.631.9870,Samuelport,2020-09-03,False,Indian,14,2.1264600031604726
+92d506c0-73e9-4a6f-8764-3a21b683982b,Ronald Holmes,jeremy97@example.com,841-231-8605x84888,South Adam,2023-01-18,False,Italian,70,2.7334133200785034
+652bce9b-10dd-4eb0-b614-24a57ce18b00,Johnny Kirk,mtorres@example.com,(637)274-4584,Murphyview,2020-03-31,True,Mexican,72,1.1533306352557497
+1da804fa-551b-418b-874d-27f70dcf3b14,Louis Norris,andersonbrian@example.com,390.702.6878x215,Port Anthony,2024-02-11,True,American,0,2.284833375041599
+7b16e6d1-6d76-42c1-a437-687cde683f40,Haley Terrell,amanda08@example.net,001-252-944-3057,South Nathanielbury,2024-01-17,True,American,78,2.53346001427607
+a8d797b6-1726-44d8-a24e-a65d577d43bf,William Olson,smithchris@example.com,001-529-308-1930x68861,West Jackchester,2022-12-07,False,Mexican,11,3.6467785208340198
+1b4b107b-c6a0-4664-89ba-e9278034b5a7,Patrick Stafford,anna83@example.net,779.850.2167x9367,Buckleyview,2024-12-17,True,American,88,2.7526695538185386
+aed47b6b-07c6-497a-ba43-2d5e32e20e70,Andrew Ryan,jimmy78@example.net,(565)669-3761,Port Donnafort,2024-04-21,True,Mexican,62,4.166528341328883
+9fb7b472-4f36-44e9-84c9-12b09a0c4d0c,Lori Gomez,danielnelson@example.com,001-762-425-6094x1788,Port Robertoton,2020-12-23,True,Mexican,15,1.4536317267830192
+2f0ac27d-fa56-45c8-bcf0-df739816ff17,John Evans,danieljackson@example.org,(294)846-3322,Hallside,2023-12-29,False,Italian,19,1.423501681729928
+9a5714d3-5617-4531-9334-42ba7cc211af,Elizabeth Monroe,hicksdavid@example.net,(815)637-8336x3255,Lake Christopher,2023-07-10,False,Indian,4,2.5849629648627164
+e7207a96-1ff5-4408-b5c1-af41d4e07dcf,Sara Fleming,nalexander@example.org,(602)905-2215x96321,South Katherinemouth,2020-01-27,True,Mexican,20,2.38411985704445
+38fb706e-b4ff-4df5-8701-8ccda5e026e1,Alexander Hill,ewilliams@example.net,704.335.3910x8424,Martinville,2024-03-26,True,Mexican,67,4.46752830452461
+05fd5038-ce01-4862-a6f3-0801874d5d43,William Kent,twalker@example.com,262.811.8098,Lorimouth,2023-10-04,False,Chinese,25,4.915499310119353
+1b4d08df-024e-4348-a193-dfd0cb188660,Karen Rodriguez,kmartin@example.net,+1-765-567-3216,Maynardport,2021-11-01,True,Chinese,79,1.3574296112250468
+424df54b-77ba-4385-98bc-8b296f03e633,Thomas Chavez,rfitzgerald@example.org,(909)787-7369x614,Gardnerbury,2023-03-15,True,Indian,11,3.9969853800403023
+7a869620-a958-46b2-978a-603d4a576bf1,Rebecca Werner,wilsoncynthia@example.net,(740)661-3938,West Tabithaview,2021-10-24,True,Mexican,31,1.5298605062803659
+f923e364-2598-4c03-b79e-30027579c717,Jonathan Smith,kaylabaker@example.com,(260)530-8562,South Autumnborough,2024-03-15,False,French,41,3.347920337986631
+593422ab-cdc7-4407-85a7-13309a714f10,Joel Garcia,troy80@example.net,001-580-592-0592,Richardside,2024-10-03,True,Indian,37,2.4755737531315583
+f6bea792-73ac-4f20-87fb-4806d47e3a47,Edward Miller,jeffery77@example.net,001-440-464-4827x4997,Lake Jennifer,2024-04-25,True,Indian,19,1.0214843687579727
+64092afe-db89-4630-91a8-46b89597536d,Kristen Collins,danielrogers@example.net,001-702-457-9488x14027,Phillipsside,2021-03-24,True,Mexican,88,3.8031914479886373
+ee6e2fc8-6ae6-428a-bcad-45c1ead3385d,Danielle Oliver,yhinton@example.net,+1-780-930-0059x2522,Patelstad,2024-01-07,True,French,91,2.962514643034481
+8aec5aee-b7e2-4d7b-b19c-8f7564e2d969,Michael Sheppard,jamiedominguez@example.org,514.508.0992x714,Phillipview,2022-09-17,True,American,62,1.5651726385905196
