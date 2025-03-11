@@ -43,52 +43,275 @@ st.markdown(
 with st.sidebar:
     selected_page = option_menu(
         "Main Menu",
-        ["Home", "Customers", "Orders", "Restaurants", "Deliveries","Queries"],
-        icons=['house', 'filter', 'person', 'cart', 'truck', 'search'],
+        ["Home", "Crud Operations","Queries"],
+        icons=['house', 'filter', 'search'],
         # menu_icon="cast",
         default_index=0,
     )
 
+
 if selected_page == "Home":  
     st.markdown("<h1 style='color:white;'>Welcome to Zomato </h1>", unsafe_allow_html=True)
-   
 
-if selected_page == "Customers":
-    st.markdown(f"## <span style='color:white'>Customers</span>", unsafe_allow_html=True)
-    mycursor.execute("SELECT * FROM customers")
-    customers = mycursor.fetchall()
-    df_customers = pd.DataFrame(customers, columns=['customer_id', 'name', 'email', 'phone','location',
-                                                    'signup_date','is_premium','preferred_cuisine','total_orders','average_rating'])
-    st.write(df_customers)
+
+    
+    # display tables in tabs
+
+    tabs=st.tabs(["Customers","Orders","Restaurants","Deliveries"])
+
+    with tabs[0]:
+        st.header("Customers Table")
+        mycursor.execute("SELECT * FROM customers")
+        records = mycursor.fetchall()
+        df = pd.DataFrame(records, columns=[i[0] for i in mycursor.description])
+        st.dataframe(df)
+
+    with tabs[1]:
+        st.header("Orders Table")
+        mycursor.execute("SELECT * FROM orders")
+        records = mycursor.fetchall()
+        df = pd.DataFrame(records, columns=[i[0] for i in mycursor.description])
+        st.dataframe(df)
+
+    with tabs[2]:
+        st.header("Restaurants Table")
+        mycursor.execute("SELECT * FROM restaurants")
+        records = mycursor.fetchall()
+        df = pd.DataFrame(records, columns=[i[0] for i in mycursor.description])
+        st.dataframe(df)
+
+    with tabs[3]:
+        st.header("Deliveries Table")
+        mycursor.execute("SELECT * FROM deliveries")
+        records = mycursor.fetchall()
+        df = pd.DataFrame(records, columns=[i[0] for i in mycursor.description])
+        st.dataframe(df)
+
+    #crud operations page
+
+if selected_page == "Crud Operations":
+    table=st.selectbox("Select Table",["Customers","Orders","Restaurants","Deliveries"])
+    operations=st.selectbox("Select Operation",["Create","Read","Update","Delete"])
     
     
-if selected_page == "Orders":
-    st.markdown(f"## <span style='color:white'>Orders</span>", unsafe_allow_html=True)
-    mycursor.execute("SELECT * FROM orders")
-    orders = mycursor.fetchall()
-    df_orders = pd.DataFrame(orders, columns=['order_id','customer_id', 'restaurant_id','order_date', 
-                                              'delivery_time', 'status','total_amount','discount_applied','payment_mode','feedback_rating'])
-    st.write(df_orders)
 
- 
-if selected_page == "Restaurants":
-    st.markdown(f"## <span style='color:white'>Restaurants</span>", unsafe_allow_html=True)
-    mycursor.execute("SELECT * FROM restaurants")
-    restaurants =mycursor.fetchall()
-    df_restaurants = pd.DataFrame(restaurants, columns=['restaurant_id', 'name', 'cusine_type','location', 'owner_name',
-    
-                                                        'average_delivery_time','contact_number','rating','total_orders','is_active'])
-    st.write(df_restaurants)
+    if table=="Customers":
+        if operations=="Create":
+            customer_id=st.text_input("Enter Customer ID")
+            name=st.text_input("Enter Name")
+            email=st.text_input("Enter Email")
+            phone=st.text_input("Enter Phone")
+            location=st.text_input("Enter Location")
+            signup_date=st.text_input("Enter Signup Date")
+            is_premium=st.text_input("Enter Is Premium")
+            # preferred_cuisine=st.text_input("Enter Preferred Cuisine")
+            total_orders=st.text_input("Enter Total Orders")
+            average_rating=st.text_input("Enter Average Rating")
+
+            if st.button("Create"):
+                sql="INSERT INTO customers (customer_id,name,email,phone,location,signup_date,is_premium,total_orders,average_rating) VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s)"
+                values=(customer_id,name,email,phone,location,signup_date,is_premium,total_orders,average_rating)
+                mycursor.execute(sql,values)
+                mydb.commit()
+                st.success("Customer Created Successfully")
+
+        elif operations=="Read":
+            mycursor.execute("SELECT * FROM customers")
+            records=mycursor.fetchall()
+            df=pd.DataFrame(records,columns=[i[0] for i in mycursor.description])
+            st.dataframe(df)
+
+        elif operations=="Update":
+            customer_id=st.text_input("Enter Customer ID")
+            name=st.text_input("Enter Name")
+            email=st.text_input("Enter Email")
+            phone=st.text_input("Enter Phone")
+            location=st.text_input("Enter Location")
+            signup_date=st.text_input("Enter Signup Date")
+            is_premium=st.text_input("Enter Is Premium")
+            # preferred_cuisine=st.text_input("Enter Preferred Cuisine")
+            total_orders=st.text_input("Enter Total Orders")
+            average_rating=st.text_input("Enter Average Rating")
+
+            if st.button("Update"):
+                sql="UPDATE customers SET name=%s,email=%s,phone=%s,location=%s,signup_date=%s,is_premium=%s,total_orders=%s,average_rating=%s WHERE customer_id=%s"
+                values=(name,email,phone,location,signup_date,is_premium,total_orders,average_rating,customer_id)
+                mycursor.execute(sql,values)
+                mydb.commit()
+                st.success("Customer Updated Successfully")
+
+        elif operations=="Delete":
+            customer_id=st.text_input("Enter Customer ID")    
+            if st.button("Delete"):
+                sql="DELETE FROM customers WHERE customer_id=%s"
+                values=(customer_id,)
+                mycursor.execute(sql,values)
+                mydb.commit()
+                st.success("Customer Deleted Successfully")
+
+    if table == "Orders":
+        if operations == "Create":
+            order_id = st.text_input("Enter Order ID")
+            customer_id = st.text_input("Enter Customer ID")
+            restaurant_id = st.text_input("Enter Restaurant ID")
+            order_date = st.text_input("Enter Order Date")
+            delivery_time=st.text_input("Enter the Delivery time")
+            status=st.text_input("Enter the Status")
+            total_amount=st.text_input("Enter the Total Amount")
+            discount_applied=st.text_input("Enter the Discount Applied")
+            payment_mode=st.text_input("Enter the Payment Mode")
+            feedback_rating=st.text_input("Enter the Feedback Rating")
+
+            if st.button("Create"):
+                sql="INSERT INTO orders (order_id,customer_id,restaurant_id,order_date,delivery_time,status,total_amount,discount_applied,payment_mode,feedback_rating) VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)"
+                values=(order_id,customer_id,restaurant_id,order_date,delivery_time,status,total_amount,discount_applied,payment_mode,feedback_rating)
+                mycursor.execute(sql,values)
+                mydb.commit()
+                st.success("Order Created Successfully")
+
+        elif operations == "Read":
+            mycursor.execute("SELECT * FROM orders")
+            records = mycursor.fetchall()
+            df = pd.DataFrame(records, columns=[i[0] for i in mycursor.description])
+            st.dataframe(df)
+
+        elif operations == "Update":
+            order_id = st.text_input("Enter Order ID")
+            customer_id = st.text_input("Enter Customer ID")
+            restaurant_id = st.text_input("Enter Restaurant ID")
+            order_date = st.text_input("Enter Order Date")
+            delivery_time=st.text_input("Enter the Delivery time")
+            status=st.text_input("Enter the Status")
+            total_amount=st.text_input("Enter the Total Amount")
+            discount_applied=st.text_input("Enter the Discount Applied")
+            payment_mode=st.text_input("Enter the Payment Mode")
+            feedback_rating=st.text_input("Enter the Feedback Rating")
+
+            if st.button("Update"):
+                sql="UPDATE orders SET customer_id=%s,restaurant_id=%s,order_date=%s,delivery_time=%s,status=%s,total_amount=%s,discount_applied=%s,payment_mode=%s,feedback_rating=%s WHERE order_id=%s"
+                values=(customer_id,restaurant_id,order_date,delivery_time,status,total_amount,discount_applied,payment_mode,feedback_rating,order_id)
+                mycursor.execute(sql,values)
+                mydb.commit()
+                st.success("Order Updated Successfully")
+
+        elif operations == "Delete":
+            order_id = st.text_input("Enter Order ID")
+
+            if st.button("Delete"):
+                sql="DELETE FROM orders WHERE order_id=%s"
+                values=(order_id,)
+                mycursor.execute(sql,values)
+                mydb.commit()
+                st.success("Order Deleted Successfully")
+
+    if table == "Restaurants":
+        if operations == "Create":
+            restaurant_id = st.text_input("Enter Restaurant ID")
+            name = st.text_input("Enter Name")
+            cuisine = st.text_input("Enter Cuisine")
+            location = st.text_input("Enter Location")
+            owner_name = st.text_input("Enter Owner Name")
+            contact_number = st.text_input("Enter Contact Number")
+            rating = st.text_input("Enter Rating")
+            total_orders = st.text_input("Enter Total Orders")
+            is_active = st.text_input("Enter Is Active")
+
+            if st.button("Create"):
+                sql="INSERT INTO restaurants (restaurant_id,name,cuisine,location,owner_name,contact_number,rating,total_orders,is_active) VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s)"
+                values=(restaurant_id,name,cuisine,location,owner_name,contact_number,rating,total_orders,is_active)
+                mycursor.execute(sql,values)
+                mydb.commit()
+                st.success("Restaurant Created Successfully")
+
+        elif operations == "Read":
+            mycursor.execute("SELECT * FROM restaurants")
+            records = mycursor.fetchall()
+            df = pd.DataFrame(records, columns=[i[0] for i in mycursor.description])
+            st.dataframe(df)
+
+        elif operations == "Update":
+            restaurant_id = st.text_input("Enter Restaurant ID")
+            name = st.text_input("Enter Name")
+            cuisine = st.text_input("Enter Cuisine")
+            location = st.text_input("Enter Location")            
+            owner_name = st.text_input("Enter Owner Name")
+            contact_number = st.text_input("Enter Contact Number")            
+            rating = st.text_input("Enter Rating")
+            total_orders = st.text_input("Enter Total Orders")
+            is_active = st.text_input("Enter Is Active")
+
+            if st.button("Update"):
+                sql="UPDATE restaurants SET name=%s,cuisine=%s,location=%s,owner_name=%s,contact_number=%s,rating=%s,total_orders=%s,is_active=%s WHERE restaurant_id=%s"
+                values=(name,cuisine,location,owner_name,contact_number,rating,total_orders,is_active,restaurant_id)
+                mycursor.execute(sql,values)
+                mydb.commit()
+                st.success("Restaurant Updated Successfully")
+
+        elif operations == "Delete":
+            restaurant_id = st.text_input("Enter Restaurant ID")
+
+            if st.button("Delete"):
+                sql="DELETE FROM restaurants WHERE restaurant_id=%s"
+                values=(restaurant_id,) 
+                mycursor.execute(sql,values)
+                mydb.commit()
+                st.success("Restaurant Deleted Successfully")   
+
+    if table == "Deliveries":
+        if operations == "Create":
+            delivery_id = st.text_input("Enter Delivery ID")
+            order_id = st.text_input("Enter Order ID")
+            delivery_person_id = st.text_input("Enter Delivery Person ID")
+            delivery_status = st.text_input("Enter Delivery Status")    
+            distance=st.text_input("Enter the Distance")
+            delivery_time = st.text_input("Enter Delivery Time")
+            estimated_time=st.text_input("Enter the Estimated Time")
+            delivery_fee=st.text_input("Enter the Delivery Fee")
+            vehicle_type=st.text_input("Enter the Vehicle Type")
+
+            if st.button("Create"):
+                sql="INSERT INTO deliveries (delivery_id,order_id,delivery_person_id,delivery_status,distance,delivery_time,estimated_time,delivery_fee,vehicle_type) VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s)"
+                values=(delivery_id,order_id,delivery_person_id,delivery_status,distance,delivery_time,estimated_time,delivery_fee,vehicle_type)
+                mycursor.execute(sql,values)
+                mydb.commit()
+                st.success("Delivery Created Successfully")
+
+        elif operations == "Read":
+            mycursor.execute("SELECT * FROM deliveries")
+            records = mycursor.fetchall()
+            df = pd.DataFrame(records, columns=[i[0] for i in mycursor.description])
+            st.dataframe(df)
+
+        elif operations == "Update":
+            delivery_id = st.text_input("Enter Delivery ID")
+            order_id = st.text_input("Enter Order ID")
+            delivery_person_id = st.text_input("Enter Delivery Person ID")
+            delivery_status = st.text_input("Enter Delivery Status")
+            distance=st.text_input("Enter the Distance")
+            delivery_time = st.text_input("Enter Delivery Time")
+            estimated_time=st.text_input("Enter the Estimated Time")
+            delivery_fee=st.text_input("Enter the Delivery Fee")
+            vehicle_type=st.text_input("Enter the Vehicle Type")
+
+            if st.button("Update"):
+                sql="UPDATE deliveries SET order_id=%s,delivery_person_id=%s,delivery_status=%s,distance=%s,delivery_time=%s,estimated_time=%s,delivery_fee=%s,vehicle_type=%s WHERE delivery_id=%s"
+                values=(order_id,delivery_person_id,delivery_status,distance,delivery_time,estimated_time,delivery_fee,vehicle_type,delivery_id)
+                mycursor.execute(sql,values)
+                mydb.commit()
+                st.success("Delivery Updated Successfully")
+
+        elif operations == "Delete":
+            delivery_id = st.text_input("Enter Delivery ID")
+
+            if st.button("Delete"):
+                sql="DELETE FROM deliveries WHERE delivery_id=%s"
+                values=(delivery_id,) 
+                mycursor.execute(sql,values)
+                mydb.commit()
+                st.success("Delivery Deleted Successfully")
 
 
-if selected_page == "Deliveries":
-    st.markdown(f"## <span style='color:white'>Deliveries</span>", unsafe_allow_html=True)
-    mycursor.execute("SELECT * FROM deliveries")
-    deliveries = mycursor.fetchall()
-    df_deliveries = pd.DataFrame(deliveries, columns=['delivery_id','order_id', 'delivery_person_id', 'delivery_status', 
-                                                      'distance', 'delivery_time', 'estimated_time', 'delivery_fee','vehicle_type'])
-    st.write(df_deliveries)
-
+# Queries page    
 if selected_page == "Queries":
     st.markdown(f"## <span style='color:white'>SQL Queries</span>", unsafe_allow_html=True)
     option = st.selectbox("Queries:",
@@ -240,4 +463,4 @@ if selected_page == "Queries":
 
 
 
-   
+    
